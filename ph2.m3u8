@@ -1,33 +1,81 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",[IL] i24NEWS
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",[PH] TFC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC |CC|
 http://cord-cutter.net:8080/X5xRz0/944877/101823#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",[PH] TFC Backup 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC 2 |CC|
 http://cord-cutter.net:8080/k4Svp2/645504/101823#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",[PH] TFC Backup 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC 3 |CC|
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101823#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png",[PH] GMA Life TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png",GMA Life TV |CC|
 http://cord-cutter.net:8080/X5xRz0/944877/101825#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png",[PH] GMA Life TV Backup 1 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png",GMA Life TV 2 |CC|
 http://cord-cutter.net:8080/k4Svp2/645504/101825#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png",[PH] GMA Life TV Backup 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png",GMA Life TV 3 |CC|
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101825#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png",[PH] GMA Pinoy TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png",GMA Pinoy TV |CC|
 http://cord-cutter.net:8080/X5xRz0/944877/101826#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png",[PH] GMA Pinoy TV Backup 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png",GMA Pinoy TV 2 |CC|
 http://cord-cutter.net:8080/k4Svp2/645504/101826#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png",[PH] GMA Pinoy TV Backup 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png",GMA Pinoy TV 3 |CC|
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101826#checkedby:alliptvlinks.com
-#EXTINF:0 tvg-country="PH" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TV5_HD_2024.svg/320px-TV5_HD_2024.svg.png" group-title="General",[PH] TV5 HD
+#EXTINF:0 tvg-country="PH" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TV5_HD_2024.svg/320px-TV5_HD_2024.svg.png" group-title="Philippines",TV5 HD |QP|
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:0 tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",[PH] Cinema One (1080p)
+#EXTINF:0 tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Philippines",Cinema One |QP|
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",[PH] MYX Philippines (720p)
+#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Philippines",MYX Philippines |M|
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/778px-OneNewsPH_logo.svg.png",[PH] One News HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/778px-OneNewsPH_logo.svg.png" group-title="Philippines",One News HD |CC|
 http://cord-cutter.net:8080/X5xRz0/944877/101774#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/778px-OneNewsPH_logo.svg.png",[PH] One News HD Backup 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/778px-OneNewsPH_logo.svg.png" group-title="Philippines",[PH] One News HD 2 |CC|
 http://cord-cutter.net:8080/k4Svp2/645504/101774#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/778px-OneNewsPH_logo.svg.png",[PH] One News HD Backup 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/778px-OneNewsPH_logo.svg.png" group-title="Philippines",[PH] One News HD 3 |CC|
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101774#checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="" tvg-name="PH001:Knowledge" tvg-logo="" group-title="Philippine",Knowledge |AN|
+http://abcnew.site:8880/D12m2819/61296162/50129
+#EXTINF:-1 tvg-id="ANC.ph" tvg-name="PH002:ANC | HD" tvg-logo="" group-title="Philippines",ANC HD |AN|
+http://abcnew.site:8880/D12m2819/61296162/50128
+#EXTINF:-1 tvg-id="" tvg-name="PH003:RUSH PBA" tvg-logo="" group-title="Philippines",RUSH PBA |AN|
+http://abcnew.site:8880/D12m2819/61296162/50127
+#EXTINF:-1 tvg-id="" tvg-name="PH004:GMA LIFE | HD" tvg-logo="" group-title="Philippines",GMA LIFE HD |AN|
+http://abcnew.site:8880/D12m2819/61296162/50126
+#EXTINF:-1 tvg-id="" tvg-name="PH005:GMA NEWS" tvg-logo="" group-title="Philippines",GMA NEWS |AN|
+http://abcnew.site:8880/D12m2819/61296162/50125
+#EXTINF:-1 tvg-id="" tvg-name="PH006:GMA PINOY | HD" tvg-logo="" group-title="Philippines",GMA PINOY HD |AN|
+http://abcnew.site:8880/D12m2819/61296162/50124
+#EXTINF:-1 tvg-id="" tvg-name="PH007:Teleradio" tvg-logo="" group-title="Philippines",Teleradyo |AN|
+http://abcnew.site:8880/D12m2819/61296162/50123
+#EXTINF:-1 tvg-id="" tvg-name="PH008:ANIMAX" tvg-logo="" group-title="Philippines",ANIMAX |AN|
+http://abcnew.site:8880/D12m2819/61296162/50122
+#EXTINF:-1 tvg-id="" tvg-name="PH009:NHK WORLD" tvg-logo="" group-title="Philippines",NHK WORLD |AN|
+http://abcnew.site:8880/D12m2819/61296162/50121
+#EXTINF:-1 tvg-id="" tvg-name="PH010:ARIRANG TV WORLD" tvg-logo="" group-title="Philippines",ARIRANG TV WORLD |AN|
+http://abcnew.site:8880/D12m2819/61296162/50120
+#EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-name="PH011:Cinema One" tvg-logo="" group-title="Philippines",Cinema One |AN|
+http://abcnew.site:8880/D12m2819/61296162/50119
+#EXTINF:-1 tvg-id="" tvg-name="PH012:UAAP Varsity" tvg-logo="" group-title="Philippines",UAAP Varsity |AN|
+http://abcnew.site:8880/D12m2819/61296162/50118
+#EXTINF:-1 tvg-id="" tvg-name="PH013:Tap Action Flix" tvg-logo="" group-title="Philippines",Tap Action Flix |AN|
+http://abcnew.site:8880/D12m2819/61296162/50117
+#EXTINF:-1 tvg-id="" tvg-name="PH014:TFC" tvg-logo="" group-title="Philippines",TFC |AN|
+http://abcnew.site:8880/D12m2819/61296162/50116
+#EXTINF:-1 tvg-id="" tvg-name="PH015:Discovery Asia" tvg-logo="" group-title="Philippines",Discovery Asia |AN|
+http://abcnew.site:8880/D12m2819/61296162/49969
+#EXTINF:-1 tvg-id="" tvg-name="PH016:Animal Planet" tvg-logo="" group-title="Philippines",Animal Planet |AN|
+http://abcnew.site:8880/D12m2819/61296162/66820
+#EXTINF:-1 tvg-id="" tvg-name="PH017:TV5" tvg-logo="" group-title="Philippines",TV5 HD |AN|
+http://abcnew.site:8880/D12m2819/61296162/66821
+#EXTINF:-1 tvg-id="" tvg-name="PH018:Paramount" tvg-logo="" group-title="Philippines",Paramount |AN|
+http://abcnew.site:8880/D12m2819/61296162/66822
+#EXTINF:-1 tvg-id="" tvg-name="PH019:Premier Sports" tvg-logo="" group-title="Philippines",Premier Sports |AN|
+http://abcnew.site:8880/D12m2819/61296162/66823
+#EXTINF:-1 tvg-id="" tvg-name="PH020:One news" tvg-logo="" group-title="Philippines",One news |AN|
+http://abcnew.site:8880/D12m2819/61296162/66824
+#EXTINF:-1 tvg-id="" tvg-name="PH021:TAP Movies" tvg-logo="" group-title="Philippines",TAP Movies |AN|
+http://abcnew.site:8880/D12m2819/61296162/66825
+#EXTINF:-1 tvg-id="" tvg-name="PH022:TAP TV" tvg-logo="" group-title="Philippines",TAP TV |AN|
+http://abcnew.site:8880/D12m2819/61296162/66826
+#EXTINF:-1 tvg-id="" tvg-name="PH023:One Sports Plus" tvg-logo="" group-title="Philippines",One Sports Plus |AN|
+http://abcnew.site:8880/D12m2819/61296162/66827
+#EXTINF:-1 tvg-id="" tvg-name="PH024:Food Network" tvg-logo="" group-title="Philippines",Food Network |AN|
+http://abcnew.site:8880/D12m2819/61296162/66828
