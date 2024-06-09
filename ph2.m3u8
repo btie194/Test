@@ -23,7 +23,7 @@ http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101826#checkedby:alliptvlinks.com
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:0 tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Philippines",Cinema One |QP|
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Philippines",MYX Philippines |M|
+#EXTINF:0 tvg-id=MyxPhilippines.ph" tvg-country="PH" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Philippines",MYX Philippines |M|
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/778px-OneNewsPH_logo.svg.png" group-title="Philippines",One News HD |CC|
 http://cord-cutter.net:8080/X5xRz0/944877/101774#checkedby:alliptvlinks.com
@@ -45,7 +45,7 @@ http://abcnew.site:8880/D12m2819/61296162/50125
 http://abcnew.site:8880/D12m2819/61296162/50124
 #EXTINF:-1 tvg-id="" tvg-name="PH007:Teleradio" tvg-logo="" group-title="Philippines",Teleradyo |AN|
 http://abcnew.site:8880/D12m2819/61296162/50123
-#EXTINF:-1 tvg-id="" tvg-name="PH008:ANIMAX" tvg-logo="" group-title="Philippines",ANIMAX |AN|
+#EXTINF:-1 tvg-id="Animax.ph" tvg-name="PH008:ANIMAX" tvg-logo="" group-title="Philippines",ANIMAX |AN|
 http://abcnew.site:8880/D12m2819/61296162/50122
 #EXTINF:-1 tvg-id="" tvg-name="PH009:NHK WORLD" tvg-logo="" group-title="Philippines",NHK WORLD |AN|
 http://abcnew.site:8880/D12m2819/61296162/50121
