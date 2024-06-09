@@ -31,7 +31,7 @@ http://cord-cutter.net:8080/X5xRz0/944877/101774#checkedby:alliptvlinks.com
 http://cord-cutter.net:8080/k4Svp2/645504/101774#checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/778px-OneNewsPH_logo.svg.png" group-title="Philippines",[PH] One News HD 3 |CC|
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101774#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="" tvg-name="PH001:Knowledge" tvg-logo="" group-title="Philippines",Knowledge |AN|
+#EXTINF:-1 tvg-id="KNOWLEDGE CHANNEL" tvg-name="PH001:Knowledge" tvg-logo="" group-title="Philippines",Knowledge |AN|
 http://abcnew.site:8880/D12m2819/61296162/50129
 #EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="" group-title="Philippines",ANC |AN|
 http://abcnew.site:8880/D12m2819/61296162/50128
@@ -63,7 +63,7 @@ http://abcnew.site:8880/D12m2819/61296162/50116
 http://abcnew.site:8880/D12m2819/61296162/49969
 #EXTINF:-1 tvg-id="" tvg-name="PH016:Animal Planet" tvg-logo="" group-title="Philippines",Animal Planet |AN|
 http://abcnew.site:8880/D12m2819/61296162/66820
-#EXTINF:-1 tvg-id="" tvg-name="PH017:TV5" tvg-logo="" group-title="Philippines",TV5 HD |AN|
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="PH017:TV5" tvg-logo="" group-title="Philippines",TV5 HD |AN|
 http://abcnew.site:8880/D12m2819/61296162/66821
 #EXTINF:-1 tvg-id="" tvg-name="PH018:Paramount" tvg-logo="" group-title="Philippines",Paramount |AN|
 http://abcnew.site:8880/D12m2819/61296162/66822
