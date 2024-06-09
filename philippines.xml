@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="a2z Channel 11"><display-name>a2z Channel 11</display-name></channel>
+<channel id="ANC"><display-name>ANC</display-name></channel>
+<channel id="Animax"><display-name>Animax</display-name></channel>
+<channel id="AXN"><display-name>AXN</display-name></channel>
+<channel id="Celestial Movies Pinoy"><display-name>Celestial Movies Pinoy</display-name></channel>
+<channel id="Cinema One"><display-name>Cinema One</display-name></channel>
+<channel id="Cinemax"><display-name>Cinemax</display-name></channel>
+<channel id="CNN Philippines"><display-name>CNN Philippines</display-name></channel>
+<channel id="Crime Investigation"><display-name>Crime Investigation</display-name></channel>
+<channel id="GEM"><display-name>GEM</display-name></channel>
+<channel id="GMA"><display-name>GMA</display-name></channel>
+<channel id="GTV"><display-name>GTV</display-name></channel>
+<channel id="History"><display-name>History</display-name></channel>
+<channel id="IBC TV 13"><display-name>IBC TV 13</display-name></channel>
+<channel id="Jeepney TV"><display-name>Jeepney TV</display-name></channel>
+<channel id="Kapamilya Channel"><display-name>Kapamilya Channel</display-name></channel>
+<channel id="K-Movies Pinoy"><display-name>K-Movies Pinoy</display-name></channel>
+<channel id="Liga"><display-name>Liga</display-name></channel>
+<channel id="Metro Channel"><display-name>Metro Channel</display-name></channel>
+<channel id="MYX"><display-name>MYX</display-name></channel>
+<channel id="National Geographic"><display-name>National Geographic</display-name></channel>
+<channel id="Net 25"><display-name>Net 25</display-name></channel>
+<channel id="Nickelodeon"><display-name>Nickelodeon</display-name></channel>
+<channel id="PBO"><display-name>PBO</display-name></channel>
+<channel id="PTV"><display-name>PTV</display-name></channel>
+<channel id="Rock Entertainment"><display-name>Rock Entertainment</display-name></channel>
+<channel id="Rock Extreme"><display-name>Rock Extreme</display-name></channel>
+<channel id="Solar Flix"><display-name>Solar Flix</display-name></channel>
+<channel id="Tagalized Movie Channel"><display-name>Tagalized Movie Channel</display-name></channel>
+<channel id="Telenovela Channel"><display-name>Telenovela Channel</display-name></channel>
+<channel id="TV5"><display-name>TV5</display-name></channel>
+<channel id="VIVA Cinema"><display-name>VIVA Cinema</display-name></channel>
+<programme start="20240608220000 +0000" stop="20240608230000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240608230000 +0000" stop="20240609010000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609010000 +0000" stop="20240609013000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609013000 +0000" stop="20240609020000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609020000 +0000" stop="20240609040000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609040000 +0000" stop="20240609061500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609061500 +0000" stop="20240609080000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609080000 +0000" stop="20240609093000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609093000 +0000" stop="20240609101500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609101500 +0000" stop="20240609110000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609110000 +0000" stop="20240609123000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609123000 +0000" stop="20240609133000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609133000 +0000" stop="20240609141500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609141500 +0000" stop="20240609210000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609210000 +0000" stop="20240609220000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609220000 +0000" stop="20240609230000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240609230000 +0000" stop="20240610000000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610000000 +0000" stop="20240610003000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610003000 +0000" stop="20240610010000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610010000 +0000" stop="20240610020000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610020000 +0000" stop="20240610040000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610040000 +0000" stop="20240610063000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610063000 +0000" stop="20240610071500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610071500 +0000" stop="20240610080000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610080000 +0000" stop="20240610094500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610094500 +0000" stop="20240610103000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610103000 +0000" stop="20240610120000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610120000 +0000" stop="20240610124500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610124500 +0000" stop="20240610133000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610133000 +0000" stop="20240610141500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610141500 +0000" stop="20240610144500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610144500 +0000" stop="20240610151500 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610151500 +0000" stop="20240610210000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610210000 +0000" stop="20240610220000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610220000 +0000" stop="20240610230000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240610230000 +0000" stop="20240611000000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="a2z Channel 11"></programme>
+<programme start="20240608160000 +0000" stop="20240608163000 +0000" channel="ANC"></programme>
+<programme start="20240608163000 +0000" stop="20240608170000 +0000" channel="ANC"></programme>
+<programme start="20240608170000 +0000" stop="20240608173000 +0000" channel="ANC"></programme>
+<programme start="20240608173000 +0000" stop="20240608180000 +0000" channel="ANC"></programme>
+<programme start="20240608180000 +0000" stop="20240608190000 +0000" channel="ANC"></programme>
+<programme start="20240608190000 +0000" stop="20240608193000 +0000" channel="ANC"></programme>
+<programme start="20240608193000 +0000" stop="20240608200000 +0000" channel="ANC"></programme>
+<programme start="20240608200000 +0000" stop="20240608203000 +0000" channel="ANC"></programme>
+<programme start="20240608203000 +0000" stop="20240608210000 +0000" channel="ANC"></programme>
+<programme start="20240608210000 +0000" stop="20240608213000 +0000" channel="ANC"></programme>
+<programme start="20240608213000 +0000" stop="20240608220000 +0000" channel="ANC"></programme>
+<programme start="20240608220000 +0000" stop="20240608223000 +0000" channel="ANC"></programme>
+<programme start="20240608223000 +0000" stop="20240608230000 +0000" channel="ANC"></programme>
+<programme start="20240608230000 +0000" stop="20240609000000 +0000" channel="ANC"></programme>
+<programme start="20240609000000 +0000" stop="20240609003000 +0000" channel="ANC"></programme>
+<programme start="20240609003000 +0000" stop="20240609013000 +0000" channel="ANC"></programme>
+<programme start="20240609013000 +0000" stop="20240609020000 +0000" channel="ANC"></programme>
+<programme start="20240609020000 +0000" stop="20240609030000 +0000" channel="ANC"></programme>
+<programme start="20240609030000 +0000" stop="20240609040000 +0000" channel="ANC"></programme>
+<programme start="20240609040000 +0000" stop="20240609050000 +0000" channel="ANC"></programme>
+<programme start="20240609050000 +0000" stop="20240609053000 +0000" channel="ANC"></programme>
+<programme start="20240609053000 +0000" stop="20240609060000 +0000" channel="ANC"></programme>
+<programme start="20240609060000 +0000" stop="20240609063000 +0000" channel="ANC"></programme>
+<programme start="20240609063000 +0000" stop="20240609070000 +0000" channel="ANC"></programme>
+<programme start="20240609070000 +0000" stop="20240609073000 +0000" channel="ANC"></programme>
+<programme start="20240609073000 +0000" stop="20240609080000 +0000" channel="ANC"></programme>
+<programme start="20240609080000 +0000" stop="20240609083000 +0000" channel="ANC"></programme>
+<programme start="20240609083000 +0000" stop="20240609090000 +0000" channel="ANC"></programme>
+<programme start="20240609090000 +0000" stop="20240609093000 +0000" channel="ANC"></programme>
+<programme start="20240609093000 +0000" stop="20240609101500 +0000" channel="ANC"></programme>
+<programme start="20240609101500 +0000" stop="20240609103000 +0000" channel="ANC"></programme>
+<programme start="20240609103000 +0000" stop="20240609110000 +0000" channel="ANC"></programme>
+<programme start="20240609110000 +0000" stop="20240609113000 +0000" channel="ANC"></programme>
+<programme start="20240609113000 +0000" stop="20240609120000 +0000" channel="ANC"></programme>
+<programme start="20240609120000 +0000" stop="20240609123000 +0000" channel="ANC"></programme>
+<programme start="20240609123000 +0000" stop="20240609130000 +0000" channel="ANC"></programme>
+<programme start="20240609130000 +0000" stop="20240609140000 +0000" channel="ANC"></programme>
+<programme start="20240609140000 +0000" stop="20240609143000 +0000" channel="ANC"></programme>
+<programme start="20240609143000 +0000" stop="20240609150000 +0000" channel="ANC"></programme>
+<programme start="20240609150000 +0000" stop="20240609153000 +0000" channel="ANC"></programme>
+<programme start="20240609153000 +0000" stop="20240609160000 +0000" channel="ANC"></programme>
+<programme start="20240609160000 +0000" stop="20240610160000 +0000" channel="ANC"></programme>
+<programme start="20240610160000 +0000" stop="20240610163000 +0000" channel="ANC"></programme>
+<programme start="20240610163000 +0000" stop="20240610170000 +0000" channel="ANC"></programme>
+<programme start="20240610170000 +0000" stop="20240610173000 +0000" channel="ANC"></programme>
+<programme start="20240610173000 +0000" stop="20240610180000 +0000" channel="ANC"></programme>
+<programme start="20240610180000 +0000" stop="20240610183000 +0000" channel="ANC"></programme>
+<programme start="20240610183000 +0000" stop="20240610190000 +0000" channel="ANC"></programme>
+<programme start="20240610190000 +0000" stop="20240610193000 +0000" channel="ANC"></programme>
+<programme start="20240610193000 +0000" stop="20240610200000 +0000" channel="ANC"></programme>
+<programme start="20240610200000 +0000" stop="20240610203000 +0000" channel="ANC"></programme>
+<programme start="20240610203000 +0000" stop="20240610210000 +0000" channel="ANC"></programme>
+<programme start="20240610210000 +0000" stop="20240610213000 +0000" channel="ANC"></programme>
+<programme start="20240610213000 +0000" stop="20240610220000 +0000" channel="ANC"></programme>
+<programme start="20240610220000 +0000" stop="20240610230000 +0000" channel="ANC"></programme>
+<programme start="20240610230000 +0000" stop="20240610233000 +0000" channel="ANC"></programme>
+<programme start="20240610233000 +0000" stop="20240611000000 +0000" channel="ANC"></programme>
+<programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="ANC"></programme>
+<programme start="20240608160000 +0000" stop="20240608173000 +0000" channel="Animax"></programme>
+<programme start="20240608173000 +0000" stop="20240608200000 +0000" channel="Animax"></programme>
+<programme start="20240608200000 +0000" stop="20240608220000 +0000" channel="Animax"></programme>
+<programme start="20240608220000 +0000" stop="20240608223000 +0000" channel="Animax"></programme>
+<programme start="20240608223000 +0000" stop="20240608233000 +0000" channel="Animax"></programme>
+<programme start="20240608233000 +0000" stop="20240609013000 +0000" channel="Animax"></programme>
+<programme start="20240609013000 +0000" stop="20240609033000 +0000" channel="Animax"></programme>
+<programme start="20240609033000 +0000" stop="20240609040000 +0000" channel="Animax"></programme>
+<programme start="20240609040000 +0000" stop="20240609060000 +0000" channel="Animax"></programme>
+<programme start="20240609060000 +0000" stop="20240609080000 +0000" channel="Animax"></programme>
+<programme start="20240609080000 +0000" stop="20240609100000 +0000" channel="Animax"></programme>
+<programme start="20240609100000 +0000" stop="20240609120000 +0000" channel="Animax"></programme>
+<programme start="20240609120000 +0000" stop="20240609140000 +0000" channel="Animax"></programme>
+<programme start="20240609140000 +0000" stop="20240609160000 +0000" channel="Animax"></programme>
+<programme start="20240609160000 +0000" stop="20240610160000 +0000" channel="Animax"></programme>
+<programme start="20240610160000 +0000" stop="20240610180000 +0000" channel="Animax"></programme>
+<programme start="20240610180000 +0000" stop="20240610200000 +0000" channel="Animax"></programme>
+<programme start="20240610200000 +0000" stop="20240610220000 +0000" channel="Animax"></programme>
+<programme start="20240610220000 +0000" stop="20240610230000 +0000" channel="Animax"></programme>
+<programme start="20240610230000 +0000" stop="20240611000000 +0000" channel="Animax"></programme>
+<programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Animax"></programme>
+<programme start="20240608180000 +0000" stop="20240608185500 +0000" channel="AXN"></programme>
+<programme start="20240608185500 +0000" stop="20240608192500 +0000" channel="AXN"></programme>
+<programme start="20240608192500 +0000" stop="20240608201500 +0000" channel="AXN"></programme>
+<programme start="20240608201500 +0000" stop="20240608210500 +0000" channel="AXN"></programme>
+<programme start="20240608210500 +0000" stop="20240608220000 +0000" channel="AXN"></programme>
+<programme start="20240608220000 +0000" stop="20240608224500 +0000" channel="AXN"></programme>
+<programme start="20240608224500 +0000" stop="20240608233000 +0000" channel="AXN"></programme>
+<programme start="20240608233000 +0000" stop="20240609002000 +0000" channel="AXN"></programme>
+<programme start="20240609002000 +0000" stop="20240609011500 +0000" channel="AXN"></programme>
+<programme start="20240609011500 +0000" stop="20240609021000 +0000" channel="AXN"></programme>
+<programme start="20240609021000 +0000" stop="20240609030500 +0000" channel="AXN"></programme>
+<programme start="20240609030500 +0000" stop="20240609053000 +0000" channel="AXN"><desc>Thrilled by his experience with the Avengers, young Peter Parker returns home to live with his Aunt May. Under the watchful eye of mentor Tony Stark, Parker starts to embrace his newfound identity as Spider-Man. He also tries to return to his normal daily routine — distracted by thoughts of proving himself to be more than just a friendly neighborhood superhero. Peter must soon put his powers to the test when the evil Vulture emerges to threaten everything that he holds dear.</desc></programme>
+<programme start="20240609053000 +0000" stop="20240609062500 +0000" channel="AXN"></programme>
+<programme start="20240609062500 +0000" stop="20240609072000 +0000" channel="AXN"></programme>
+<programme start="20240609072000 +0000" stop="20240609081500 +0000" channel="AXN"></programme>
+<programme start="20240609081500 +0000" stop="20240609091000 +0000" channel="AXN"></programme>
+<programme start="20240609091000 +0000" stop="20240609100500 +0000" channel="AXN"></programme>
+<programme start="20240609100500 +0000" stop="20240609110000 +0000" channel="AXN"></programme>
+<programme start="20240609110000 +0000" stop="20240609115500 +0000" channel="AXN"></programme>
+<programme start="20240609115500 +0000" stop="20240609125000 +0000" channel="AXN"></programme>
+<programme start="20240609125000 +0000" stop="20240609134500 +0000" channel="AXN"></programme>
+<programme start="20240609134500 +0000" stop="20240609160500 +0000" channel="AXN"><desc>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</desc></programme>
+<programme start="20240609160500 +0000" stop="20240609170000 +0000" channel="AXN"></programme>
+<programme start="20240609170000 +0000" stop="20240609184500 +0000" channel="AXN"><desc>In a small town in Massachusetts, a group of friends, fascinated by the internet lore of the Slender Man, attempt to prove that he doesnt actually exist - until one of them mysteriously goes missing.</desc></programme>
+<programme start="20240609184500 +0000" stop="20240609194000 +0000" channel="AXN"></programme>
+<programme start="20240609194000 +0000" stop="20240609201000 +0000" channel="AXN"></programme>
+<programme start="20240609201000 +0000" stop="20240609210500 +0000" channel="AXN"></programme>
+<programme start="20240609210500 +0000" stop="20240609220000 +0000" channel="AXN"></programme>
+<programme start="20240609220000 +0000" stop="20240609224500 +0000" channel="AXN"></programme>
+<programme start="20240609224500 +0000" stop="20240609233500 +0000" channel="AXN"></programme>
+<programme start="20240609233500 +0000" stop="20240610003000 +0000" channel="AXN"></programme>
+<programme start="20240610003000 +0000" stop="20240610012000 +0000" channel="AXN"></programme>
+<programme start="20240610012000 +0000" stop="20240610021500 +0000" channel="AXN"></programme>
+<programme start="20240610021500 +0000" stop="20240610030500 +0000" channel="AXN"></programme>
+<programme start="20240610030500 +0000" stop="20240610035500 +0000" channel="AXN"></programme>
+<programme start="20240610035500 +0000" stop="20240610045000 +0000" channel="AXN"></programme>
+<programme start="20240610045000 +0000" stop="20240610054500 +0000" channel="AXN"></programme>
+<programme start="20240610054500 +0000" stop="20240610063500 +0000" channel="AXN"></programme>
+<programme start="20240610063500 +0000" stop="20240610072500 +0000" channel="AXN"></programme>
+<programme start="20240610072500 +0000" stop="20240610082000 +0000" channel="AXN"></programme>
+<programme start="20240610082000 +0000" stop="20240610091000 +0000" channel="AXN"></programme>
+<programme start="20240610091000 +0000" stop="20240610100500 +0000" channel="AXN"></programme>
+<programme start="20240610100500 +0000" stop="20240610110000 +0000" channel="AXN"></programme>
+<programme start="20240610110000 +0000" stop="20240610115500 +0000" channel="AXN"></programme>
+<programme start="20240610115500 +0000" stop="20240610125000 +0000" channel="AXN"></programme>
+<programme start="20240610125000 +0000" stop="20240610134500 +0000" channel="AXN"></programme>
+<programme start="20240610134500 +0000" stop="20240610144000 +0000" channel="AXN"></programme>
+<programme start="20240610144000 +0000" stop="20240610153500 +0000" channel="AXN"></programme>
+<programme start="20240610153500 +0000" stop="20240610163000 +0000" channel="AXN"></programme>
+<programme start="20240610163000 +0000" stop="20240610172500 +0000" channel="AXN"></programme>
+<programme start="20240610172500 +0000" stop="20240610182000 +0000" channel="AXN"></programme>
+<programme start="20240610182000 +0000" stop="20240610191500 +0000" channel="AXN"></programme>
+<programme start="20240610191500 +0000" stop="20240610201000 +0000" channel="AXN"></programme>
+<programme start="20240610201000 +0000" stop="20240610210500 +0000" channel="AXN"></programme>
+<programme start="20240610210500 +0000" stop="20240610220000 +0000" channel="AXN"></programme>
+<programme start="20240610220000 +0000" stop="20240610224500 +0000" channel="AXN"></programme>
+<programme start="20240610224500 +0000" stop="20240610233500 +0000" channel="AXN"></programme>
+<programme start="20240610233500 +0000" stop="20240611003000 +0000" channel="AXN"></programme>
+<programme start="20240611003000 +0000" stop="20240611012000 +0000" channel="AXN"></programme>
+<programme start="20240608172500 +0000" stop="20240608192500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240608192500 +0000" stop="20240608205000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240608205000 +0000" stop="20240608225000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240608225000 +0000" stop="20240609001000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609001000 +0000" stop="20240609015000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609015000 +0000" stop="20240609034500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609034500 +0000" stop="20240609053000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609053000 +0000" stop="20240609071000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609071000 +0000" stop="20240609083500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609083500 +0000" stop="20240609110000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609110000 +0000" stop="20240609123000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609123000 +0000" stop="20240609141000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609141000 +0000" stop="20240609154500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609154500 +0000" stop="20240609172000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609172000 +0000" stop="20240609185000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609185000 +0000" stop="20240609204000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609204000 +0000" stop="20240609221500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240609221500 +0000" stop="20240610000000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610000000 +0000" stop="20240610011500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610011500 +0000" stop="20240610024500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610024500 +0000" stop="20240610042000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610042000 +0000" stop="20240610061000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610061000 +0000" stop="20240610073500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610073500 +0000" stop="20240610091000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610091000 +0000" stop="20240610110000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610110000 +0000" stop="20240610130000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610130000 +0000" stop="20240610144500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610144500 +0000" stop="20240610163000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610163000 +0000" stop="20240610182500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610182500 +0000" stop="20240610201000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610201000 +0000" stop="20240610214000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610214000 +0000" stop="20240610230500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240610230500 +0000" stop="20240611004500 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240611004500 +0000" stop="20240611023000 +0000" channel="Celestial Movies Pinoy"></programme>
+<programme start="20240608170000 +0000" stop="20240608190000 +0000" channel="Cinema One"></programme>
+<programme start="20240608190000 +0000" stop="20240608210000 +0000" channel="Cinema One"><desc>Ramon, a retired senator who comes out as gay and temporarily leaves his wife and family to care for is best friend and lover who is dying of cancer</desc></programme>
+<programme start="20240608210000 +0000" stop="20240608230000 +0000" channel="Cinema One"></programme>
+<programme start="20240608230000 +0000" stop="20240609010000 +0000" channel="Cinema One"></programme>
+<programme start="20240609010000 +0000" stop="20240609030000 +0000" channel="Cinema One"></programme>
+<programme start="20240609030000 +0000" stop="20240609050000 +0000" channel="Cinema One"></programme>
+<programme start="20240609050000 +0000" stop="20240609070000 +0000" channel="Cinema One"><desc>A female radio DJ who has a popular relationship advice show advises a caller to break up with her boyfriend. Much to the DJs surprise, that boyfriend shows up at the station, asking for restitution. The DJ tries to help him win his girl back, but the two fall in love in the process.</desc></programme>
+<programme start="20240609070000 +0000" stop="20240609090000 +0000" channel="Cinema One"><desc>A woman buys a bag from a secondhand shop, not knowing that the bag carries with it the misfortune of its previous owner. She must now dig into the past to keep herself and her family safe.</desc></programme>
+<programme start="20240609090000 +0000" stop="20240609110000 +0000" channel="Cinema One"><desc>Faith and Julius are best friends until they try being a couple where their friendship is tested by the expectations and problems that come with a relationship.</desc></programme>
+<programme start="20240609110000 +0000" stop="20240609130000 +0000" channel="Cinema One"><desc>A bartender and a domestic helper of Filipino origin living in Hong Kong find themselves falling in love, but they each have different plans for their future.</desc></programme>
+<programme start="20240609130000 +0000" stop="20240609150000 +0000" channel="Cinema One"></programme>
+<programme start="20240609150000 +0000" stop="20240609170000 +0000" channel="Cinema One"></programme>
+<programme start="20240609170000 +0000" stop="20240609190000 +0000" channel="Cinema One"></programme>
+<programme start="20240609190000 +0000" stop="20240609210000 +0000" channel="Cinema One"></programme>
+<programme start="20240609210000 +0000" stop="20240609230000 +0000" channel="Cinema One"></programme>
+<programme start="20240609230000 +0000" stop="20240610010000 +0000" channel="Cinema One"></programme>
+<programme start="20240610010000 +0000" stop="20240610030000 +0000" channel="Cinema One"></programme>
+<programme start="20240610030000 +0000" stop="20240610050000 +0000" channel="Cinema One"></programme>
+<programme start="20240610050000 +0000" stop="20240610070000 +0000" channel="Cinema One"><desc>Two college freshmen, Pol and Laya, accidentally meet during their last day of school in Baguio City. Laya is about to move back to Manila to escape from her failed romance, while Pol is about to spend a care-free night in a music festival. After witnessing Laya’s breakdown because of her recent heartbreak, Pol gets an idea to make her last night in Baguio fun and memorable.</desc></programme>
+<programme start="20240610070000 +0000" stop="20240610090000 +0000" channel="Cinema One"></programme>
+<programme start="20240610090000 +0000" stop="20240610110000 +0000" channel="Cinema One"><desc>A bad girl and a province boy found love in the state of being broken and in the process of healing.</desc></programme>
+<programme start="20240610110000 +0000" stop="20240610130000 +0000" channel="Cinema One"></programme>
+<programme start="20240610130000 +0000" stop="20240610150000 +0000" channel="Cinema One"><desc>A young woman is torn between the affections of her two lovers. One is a young bachelor who brings passion into her life. The other is a married man who has kept her as his mistress for years.</desc></programme>
+<programme start="20240610150000 +0000" stop="20240610170000 +0000" channel="Cinema One"></programme>
+<programme start="20240610170000 +0000" stop="20240610190000 +0000" channel="Cinema One"></programme>
+<programme start="20240610190000 +0000" stop="20240610210000 +0000" channel="Cinema One"></programme>
+<programme start="20240610210000 +0000" stop="20240610230000 +0000" channel="Cinema One"><desc>A couple defines their relationship and realizes one of them is not yet ready for commitment.</desc></programme>
+<programme start="20240610230000 +0000" stop="20240611010000 +0000" channel="Cinema One"></programme>
+<programme start="20240608162500 +0000" stop="20240608172000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608172000 +0000" stop="20240608181500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608181500 +0000" stop="20240608191000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608191000 +0000" stop="20240608200500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608200500 +0000" stop="20240608210000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608210000 +0000" stop="20240608220000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608220000 +0000" stop="20240608225000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608225000 +0000" stop="20240608234500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608234500 +0000" stop="20240609004000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609004000 +0000" stop="20240609013500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609013500 +0000" stop="20240609023000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609023000 +0000" stop="20240609032500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609032500 +0000" stop="20240609042000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609042000 +0000" stop="20240609051500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609051500 +0000" stop="20240609061000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609061000 +0000" stop="20240609070500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609070500 +0000" stop="20240609080000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609080000 +0000" stop="20240609085500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609085500 +0000" stop="20240609094500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609094500 +0000" stop="20240609103500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609103500 +0000" stop="20240609112500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609112500 +0000" stop="20240609121500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609121500 +0000" stop="20240609130500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609130500 +0000" stop="20240609135500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609135500 +0000" stop="20240609144500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609144500 +0000" stop="20240609153500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609153500 +0000" stop="20240609162500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609162500 +0000" stop="20240609172000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609172000 +0000" stop="20240609181500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609181500 +0000" stop="20240609191000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609191000 +0000" stop="20240609200500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609200500 +0000" stop="20240609210000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609210000 +0000" stop="20240609220000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609220000 +0000" stop="20240609225000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609225000 +0000" stop="20240609234500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240609234500 +0000" stop="20240610004000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610004000 +0000" stop="20240610013500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610013500 +0000" stop="20240610023000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610023000 +0000" stop="20240610032500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610032500 +0000" stop="20240610042000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610042000 +0000" stop="20240610051500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610051500 +0000" stop="20240610061000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610061000 +0000" stop="20240610070500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610070500 +0000" stop="20240610080000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610080000 +0000" stop="20240610085500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610085500 +0000" stop="20240610094500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610094500 +0000" stop="20240610103500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610103500 +0000" stop="20240610112500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610112500 +0000" stop="20240610121500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610121500 +0000" stop="20240610130500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610130500 +0000" stop="20240610135500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610135500 +0000" stop="20240610144500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610144500 +0000" stop="20240610153500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610153500 +0000" stop="20240610162500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610162500 +0000" stop="20240610172000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610172000 +0000" stop="20240610181500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610181500 +0000" stop="20240610191000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610191000 +0000" stop="20240610200500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610200500 +0000" stop="20240610210000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610210000 +0000" stop="20240610220000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610220000 +0000" stop="20240610225000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610225000 +0000" stop="20240610234500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240610234500 +0000" stop="20240611004000 +0000" channel="Crime Investigation"></programme>
+<programme start="20240611004000 +0000" stop="20240611013500 +0000" channel="Crime Investigation"></programme>
+<programme start="20240608162500 +0000" stop="20240608182500 +0000" channel="GEM"></programme>
+<programme start="20240608182500 +0000" stop="20240608201000 +0000" channel="GEM"></programme>
+<programme start="20240608201000 +0000" stop="20240608210000 +0000" channel="GEM"></programme>
+<programme start="20240608210000 +0000" stop="20240608220000 +0000" channel="GEM"></programme>
+<programme start="20240608220000 +0000" stop="20240608230000 +0000" channel="GEM"></programme>
+<programme start="20240608230000 +0000" stop="20240608235000 +0000" channel="GEM"></programme>
+<programme start="20240608235000 +0000" stop="20240609002000 +0000" channel="GEM"></programme>
+<programme start="20240609002000 +0000" stop="20240609011000 +0000" channel="GEM"></programme>
+<programme start="20240609011000 +0000" stop="20240609021000 +0000" channel="GEM"></programme>
+<programme start="20240609021000 +0000" stop="20240609030500 +0000" channel="GEM"></programme>
+<programme start="20240609030500 +0000" stop="20240609040000 +0000" channel="GEM"></programme>
+<programme start="20240609040000 +0000" stop="20240609043000 +0000" channel="GEM"></programme>
+<programme start="20240609043000 +0000" stop="20240609053000 +0000" channel="GEM"></programme>
+<programme start="20240609053000 +0000" stop="20240609062000 +0000" channel="GEM"></programme>
+<programme start="20240609062000 +0000" stop="20240609071500 +0000" channel="GEM"></programme>
+<programme start="20240609071500 +0000" stop="20240609081000 +0000" channel="GEM"></programme>
+<programme start="20240609081000 +0000" stop="20240609090500 +0000" channel="GEM"></programme>
+<programme start="20240609090500 +0000" stop="20240609095500 +0000" channel="GEM"></programme>
+<programme start="20240609095500 +0000" stop="20240609102500 +0000" channel="GEM"></programme>
+<programme start="20240609102500 +0000" stop="20240609112500 +0000" channel="GEM"></programme>
+<programme start="20240609112500 +0000" stop="20240609121500 +0000" channel="GEM"></programme>
+<programme start="20240609121500 +0000" stop="20240609131000 +0000" channel="GEM"></programme>
+<programme start="20240609131000 +0000" stop="20240609140500 +0000" channel="GEM"></programme>
+<programme start="20240609140500 +0000" stop="20240609150000 +0000" channel="GEM"></programme>
+<programme start="20240609150000 +0000" stop="20240609155000 +0000" channel="GEM"></programme>
+<programme start="20240609155000 +0000" stop="20240609164500 +0000" channel="GEM"></programme>
+<programme start="20240609164500 +0000" stop="20240609174500 +0000" channel="GEM"></programme>
+<programme start="20240609174500 +0000" stop="20240609181500 +0000" channel="GEM"></programme>
+<programme start="20240609181500 +0000" stop="20240609191000 +0000" channel="GEM"></programme>
+<programme start="20240609191000 +0000" stop="20240609200500 +0000" channel="GEM"></programme>
+<programme start="20240609200500 +0000" stop="20240609210500 +0000" channel="GEM"></programme>
+<programme start="20240609210500 +0000" stop="20240609220000 +0000" channel="GEM"></programme>
+<programme start="20240609220000 +0000" stop="20240610220000 +0000" channel="GEM"></programme>
+<programme start="20240610220000 +0000" stop="20240610225000 +0000" channel="GEM"></programme>
+<programme start="20240610225000 +0000" stop="20240610225500 +0000" channel="GEM"></programme>
+<programme start="20240610225500 +0000" stop="20240610234500 +0000" channel="GEM"></programme>
+<programme start="20240610234500 +0000" stop="20240611004500 +0000" channel="GEM"></programme>
+<programme start="20240611004500 +0000" stop="20240611011000 +0000" channel="GEM"></programme>
+<programme start="20240608210000 +0000" stop="20240608213000 +0000" channel="GMA"></programme>
+<programme start="20240608213000 +0000" stop="20240608220000 +0000" channel="GMA"></programme>
+<programme start="20240608220000 +0000" stop="20240608223000 +0000" channel="GMA"></programme>
+<programme start="20240608223000 +0000" stop="20240608230000 +0000" channel="GMA"></programme>
+<programme start="20240608230000 +0000" stop="20240609000000 +0000" channel="GMA"></programme>
+<programme start="20240609000000 +0000" stop="20240609002000 +0000" channel="GMA"></programme>
+<programme start="20240609002000 +0000" stop="20240609010000 +0000" channel="GMA"></programme>
+<programme start="20240609010000 +0000" stop="20240609013000 +0000" channel="GMA"></programme>
+<programme start="20240609013000 +0000" stop="20240609020500 +0000" channel="GMA"></programme>
+<programme start="20240609020500 +0000" stop="20240609034500 +0000" channel="GMA"></programme>
+<programme start="20240609034500 +0000" stop="20240609060000 +0000" channel="GMA"></programme>
+<programme start="20240609060000 +0000" stop="20240609071500 +0000" channel="GMA"></programme>
+<programme start="20240609071500 +0000" stop="20240609081500 +0000" channel="GMA"></programme>
+<programme start="20240609081500 +0000" stop="20240609090000 +0000" channel="GMA"></programme>
+<programme start="20240609090000 +0000" stop="20240609093000 +0000" channel="GMA"></programme>
+<programme start="20240609093000 +0000" stop="20240610093000 +0000" channel="GMA"></programme>
+<programme start="20240610093000 +0000" stop="20240610101500 +0000" channel="GMA"></programme>
+<programme start="20240610101500 +0000" stop="20240610111500 +0000" channel="GMA"></programme>
+<programme start="20240610111500 +0000" stop="20240610121500 +0000" channel="GMA"></programme>
+<programme start="20240610121500 +0000" stop="20240610140500 +0000" channel="GMA"></programme>
+<programme start="20240610140500 +0000" stop="20240610150000 +0000" channel="GMA"></programme>
+<programme start="20240610150000 +0000" stop="20240610213000 +0000" channel="GMA"></programme>
+<programme start="20240610213000 +0000" stop="20240611000000 +0000" channel="GMA"></programme>
+<programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="GMA"></programme>
+<programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="GMA"></programme>
+<programme start="20240608220000 +0000" stop="20240608223000 +0000" channel="GTV"></programme>
+<programme start="20240608223000 +0000" stop="20240608233000 +0000" channel="GTV"></programme>
+<programme start="20240608233000 +0000" stop="20240609003000 +0000" channel="GTV"></programme>
+<programme start="20240609003000 +0000" stop="20240609013000 +0000" channel="GTV"></programme>
+<programme start="20240609013000 +0000" stop="20240609020000 +0000" channel="GTV"></programme>
+<programme start="20240609020000 +0000" stop="20240609023000 +0000" channel="GTV"></programme>
+<programme start="20240609023000 +0000" stop="20240609030000 +0000" channel="GTV"></programme>
+<programme start="20240609030000 +0000" stop="20240609033000 +0000" channel="GTV"></programme>
+<programme start="20240609033000 +0000" stop="20240609040000 +0000" channel="GTV"></programme>
+<programme start="20240609040000 +0000" stop="20240609060000 +0000" channel="GTV"></programme>
+<programme start="20240609060000 +0000" stop="20240609093000 +0000" channel="GTV"></programme>
+<programme start="20240609093000 +0000" stop="20240609101500 +0000" channel="GTV"></programme>
+<programme start="20240609101500 +0000" stop="20240609111500 +0000" channel="GTV"></programme>
+<programme start="20240609111500 +0000" stop="20240609120000 +0000" channel="GTV"></programme>
+<programme start="20240609120000 +0000" stop="20240609124500 +0000" channel="GTV"></programme>
+<programme start="20240609124500 +0000" stop="20240609133000 +0000" channel="GTV"></programme>
+<programme start="20240609133000 +0000" stop="20240609151500 +0000" channel="GTV"></programme>
+<programme start="20240609151500 +0000" stop="20240609213000 +0000" channel="GTV"></programme>
+<programme start="20240609213000 +0000" stop="20240609230000 +0000" channel="GTV"></programme>
+<programme start="20240609230000 +0000" stop="20240610000000 +0000" channel="GTV"></programme>
+<programme start="20240610000000 +0000" stop="20240610010000 +0000" channel="GTV"></programme>
+<programme start="20240610010000 +0000" stop="20240610013000 +0000" channel="GTV"></programme>
+<programme start="20240610013000 +0000" stop="20240610020000 +0000" channel="GTV"></programme>
+<programme start="20240610020000 +0000" stop="20240610030000 +0000" channel="GTV"></programme>
+<programme start="20240610030000 +0000" stop="20240610040000 +0000" channel="GTV"></programme>
+<programme start="20240610040000 +0000" stop="20240610063000 +0000" channel="GTV"></programme>
+<programme start="20240610063000 +0000" stop="20240610071500 +0000" channel="GTV"></programme>
+<programme start="20240610071500 +0000" stop="20240610093000 +0000" channel="GTV"></programme>
+<programme start="20240610093000 +0000" stop="20240610103000 +0000" channel="GTV"></programme>
+<programme start="20240610103000 +0000" stop="20240610120000 +0000" channel="GTV"></programme>
+<programme start="20240610120000 +0000" stop="20240610134500 +0000" channel="GTV"></programme>
+<programme start="20240610134500 +0000" stop="20240610143000 +0000" channel="GTV"></programme>
+<programme start="20240610143000 +0000" stop="20240610150000 +0000" channel="GTV"></programme>
+<programme start="20240610150000 +0000" stop="20240610153000 +0000" channel="GTV"></programme>
+<programme start="20240610153000 +0000" stop="20240610213000 +0000" channel="GTV"></programme>
+<programme start="20240610213000 +0000" stop="20240610230000 +0000" channel="GTV"></programme>
+<programme start="20240610230000 +0000" stop="20240611000000 +0000" channel="GTV"></programme>
+<programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="GTV"></programme>
+<programme start="20240608163500 +0000" stop="20240608173000 +0000" channel="History"></programme>
+<programme start="20240608173000 +0000" stop="20240608183000 +0000" channel="History"></programme>
+<programme start="20240608183000 +0000" stop="20240608192000 +0000" channel="History"></programme>
+<programme start="20240608192000 +0000" stop="20240608202000 +0000" channel="History"></programme>
+<programme start="20240608202000 +0000" stop="20240608211500 +0000" channel="History"></programme>
+<programme start="20240608211500 +0000" stop="20240608221000 +0000" channel="History"></programme>
+<programme start="20240608221000 +0000" stop="20240608230500 +0000" channel="History"></programme>
+<programme start="20240608230500 +0000" stop="20240609000500 +0000" channel="History"></programme>
+<programme start="20240609000500 +0000" stop="20240609010000 +0000" channel="History"></programme>
+<programme start="20240609010000 +0000" stop="20240609015500 +0000" channel="History"></programme>
+<programme start="20240609015500 +0000" stop="20240609025000 +0000" channel="History"></programme>
+<programme start="20240609025000 +0000" stop="20240609035000 +0000" channel="History"></programme>
+<programme start="20240609035000 +0000" stop="20240609044000 +0000" channel="History"></programme>
+<programme start="20240609044000 +0000" stop="20240609053500 +0000" channel="History"></programme>
+<programme start="20240609053500 +0000" stop="20240609063500 +0000" channel="History"></programme>
+<programme start="20240609063500 +0000" stop="20240609073000 +0000" channel="History"></programme>
+<programme start="20240609073000 +0000" stop="20240609082500 +0000" channel="History"></programme>
+<programme start="20240609082500 +0000" stop="20240609091500 +0000" channel="History"></programme>
+<programme start="20240609091500 +0000" stop="20240609101000 +0000" channel="History"></programme>
+<programme start="20240609101000 +0000" stop="20240609111000 +0000" channel="History"></programme>
+<programme start="20240609111000 +0000" stop="20240609121000 +0000" channel="History"></programme>
+<programme start="20240609121000 +0000" stop="20240609130000 +0000" channel="History"></programme>
+<programme start="20240609130000 +0000" stop="20240609135500 +0000" channel="History"></programme>
+<programme start="20240609135500 +0000" stop="20240609145000 +0000" channel="History"></programme>
+<programme start="20240609145000 +0000" stop="20240609154500 +0000" channel="History"></programme>
+<programme start="20240609154500 +0000" stop="20240609164000 +0000" channel="History"></programme>
+<programme start="20240609164000 +0000" stop="20240609173500 +0000" channel="History"></programme>
+<programme start="20240609173500 +0000" stop="20240609183000 +0000" channel="History"></programme>
+<programme start="20240609183000 +0000" stop="20240609192500 +0000" channel="History"></programme>
+<programme start="20240609192500 +0000" stop="20240609201500 +0000" channel="History"></programme>
+<programme start="20240609201500 +0000" stop="20240609211500 +0000" channel="History"></programme>
+<programme start="20240609211500 +0000" stop="20240609221000 +0000" channel="History"></programme>
+<programme start="20240609221000 +0000" stop="20240609230500 +0000" channel="History"></programme>
+<programme start="20240609230500 +0000" stop="20240610000000 +0000" channel="History"></programme>
+<programme start="20240610000000 +0000" stop="20240610010000 +0000" channel="History"></programme>
+<programme start="20240610010000 +0000" stop="20240610015500 +0000" channel="History"></programme>
+<programme start="20240610015500 +0000" stop="20240610025000 +0000" channel="History"></programme>
+<programme start="20240610025000 +0000" stop="20240610034500 +0000" channel="History"></programme>
+<programme start="20240610034500 +0000" stop="20240610044000 +0000" channel="History"></programme>
+<programme start="20240610044000 +0000" stop="20240610053500 +0000" channel="History"></programme>
+<programme start="20240610053500 +0000" stop="20240610062500 +0000" channel="History"></programme>
+<programme start="20240610062500 +0000" stop="20240610072000 +0000" channel="History"></programme>
+<programme start="20240610072000 +0000" stop="20240610081500 +0000" channel="History"></programme>
+<programme start="20240610081500 +0000" stop="20240610091000 +0000" channel="History"></programme>
+<programme start="20240610091000 +0000" stop="20240610100000 +0000" channel="History"></programme>
+<programme start="20240610100000 +0000" stop="20240610110000 +0000" channel="History"></programme>
+<programme start="20240610110000 +0000" stop="20240610120000 +0000" channel="History"></programme>
+<programme start="20240610120000 +0000" stop="20240610130000 +0000" channel="History"></programme>
+<programme start="20240610130000 +0000" stop="20240610135500 +0000" channel="History"></programme>
+<programme start="20240610135500 +0000" stop="20240610145000 +0000" channel="History"></programme>
+<programme start="20240610145000 +0000" stop="20240610154500 +0000" channel="History"></programme>
+<programme start="20240610154500 +0000" stop="20240610163500 +0000" channel="History"></programme>
+<programme start="20240610163500 +0000" stop="20240610173500 +0000" channel="History"></programme>
+<programme start="20240610173500 +0000" stop="20240610183000 +0000" channel="History"></programme>
+<programme start="20240610183000 +0000" stop="20240610192000 +0000" channel="History"></programme>
+<programme start="20240610192000 +0000" stop="20240610202000 +0000" channel="History"></programme>
+<programme start="20240610202000 +0000" stop="20240610212000 +0000" channel="History"></programme>
+<programme start="20240610212000 +0000" stop="20240610221000 +0000" channel="History"></programme>
+<programme start="20240610221000 +0000" stop="20240610230000 +0000" channel="History"></programme>
+<programme start="20240610230000 +0000" stop="20240611000000 +0000" channel="History"></programme>
+<programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="History"></programme>
+<programme start="20240608230000 +0000" stop="20240609000000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609000000 +0000" stop="20240609010000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609010000 +0000" stop="20240609013000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609013000 +0000" stop="20240609020000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609020000 +0000" stop="20240609030000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609030000 +0000" stop="20240609033000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609033000 +0000" stop="20240609040000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609040000 +0000" stop="20240609050000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609050000 +0000" stop="20240609060000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609060000 +0000" stop="20240609070000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609070000 +0000" stop="20240609080000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609080000 +0000" stop="20240609090000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609090000 +0000" stop="20240609093000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609093000 +0000" stop="20240609100000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609100000 +0000" stop="20240609110000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609110000 +0000" stop="20240609120000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609120000 +0000" stop="20240609130000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609130000 +0000" stop="20240609213000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609213000 +0000" stop="20240609220000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240609220000 +0000" stop="20240610000000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610000000 +0000" stop="20240610010000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610010000 +0000" stop="20240610020000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610020000 +0000" stop="20240610034500 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610034500 +0000" stop="20240610041000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610041000 +0000" stop="20240610050000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610050000 +0000" stop="20240610055500 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610055500 +0000" stop="20240610061000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610061000 +0000" stop="20240610063000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610063000 +0000" stop="20240610070000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610070000 +0000" stop="20240610075500 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610075500 +0000" stop="20240610081000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610081000 +0000" stop="20240610083000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610083000 +0000" stop="20240610090000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610090000 +0000" stop="20240610100000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610100000 +0000" stop="20240610103000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610103000 +0000" stop="20240610110000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610110000 +0000" stop="20240610120000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610120000 +0000" stop="20240610130000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610130000 +0000" stop="20240610140000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610140000 +0000" stop="20240610213000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610213000 +0000" stop="20240610220000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240610220000 +0000" stop="20240611000000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="IBC TV 13"></programme>
+<programme start="20240608160000 +0000" stop="20240608173000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240608173000 +0000" stop="20240608200000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240608200000 +0000" stop="20240608230000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240608230000 +0000" stop="20240609000000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609000000 +0000" stop="20240609020000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609020000 +0000" stop="20240609050000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609050000 +0000" stop="20240609063000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609063000 +0000" stop="20240609070000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609070000 +0000" stop="20240609080000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609080000 +0000" stop="20240609093000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609093000 +0000" stop="20240609101500 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609101500 +0000" stop="20240609140000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609140000 +0000" stop="20240609160000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240609160000 +0000" stop="20240610160000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610160000 +0000" stop="20240610164500 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610164500 +0000" stop="20240610172000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610172000 +0000" stop="20240610180000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610180000 +0000" stop="20240610184500 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610184500 +0000" stop="20240610193000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610193000 +0000" stop="20240610204500 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610204500 +0000" stop="20240610212500 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610212500 +0000" stop="20240610224500 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610224500 +0000" stop="20240610233000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240610233000 +0000" stop="20240611000000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Jeepney TV"></programme>
+<programme start="20240608163000 +0000" stop="20240608180000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240608180000 +0000" stop="20240608200000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240608200000 +0000" stop="20240608220000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240608220000 +0000" stop="20240608230000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240608230000 +0000" stop="20240608232500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240608232500 +0000" stop="20240608235000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240608235000 +0000" stop="20240609001500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609001500 +0000" stop="20240609004000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609004000 +0000" stop="20240609010000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609010000 +0000" stop="20240609013000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609013000 +0000" stop="20240609040000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609040000 +0000" stop="20240609061500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609061500 +0000" stop="20240609080000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609080000 +0000" stop="20240609093000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609093000 +0000" stop="20240609101500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609101500 +0000" stop="20240609110000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609110000 +0000" stop="20240609123000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609123000 +0000" stop="20240609133000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609133000 +0000" stop="20240609141500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609141500 +0000" stop="20240609180000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609180000 +0000" stop="20240609194500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609194500 +0000" stop="20240609213000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609213000 +0000" stop="20240609220000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609220000 +0000" stop="20240609230000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240609230000 +0000" stop="20240610000000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610000000 +0000" stop="20240610003000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610003000 +0000" stop="20240610010000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610010000 +0000" stop="20240610020000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610020000 +0000" stop="20240610040000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610040000 +0000" stop="20240610063000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610063000 +0000" stop="20240610071500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610071500 +0000" stop="20240610080000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610080000 +0000" stop="20240610094500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610094500 +0000" stop="20240610103000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610103000 +0000" stop="20240610120000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610120000 +0000" stop="20240610124500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610124500 +0000" stop="20240610133000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610133000 +0000" stop="20240610141500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610141500 +0000" stop="20240610144500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610144500 +0000" stop="20240610151500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610151500 +0000" stop="20240610180000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610180000 +0000" stop="20240610194500 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610194500 +0000" stop="20240610213000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610213000 +0000" stop="20240610220000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610220000 +0000" stop="20240610230000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240610230000 +0000" stop="20240611000000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="Kapamilya Channel"></programme>
+<programme start="20240608160000 +0000" stop="20240608163000 +0000" channel="Net 25"></programme>
+<programme start="20240608163000 +0000" stop="20240608170000 +0000" channel="Net 25"></programme>
+<programme start="20240608170000 +0000" stop="20240608173000 +0000" channel="Net 25"></programme>
+<programme start="20240608173000 +0000" stop="20240608180000 +0000" channel="Net 25"></programme>
+<programme start="20240608180000 +0000" stop="20240608183000 +0000" channel="Net 25"></programme>
+<programme start="20240608183000 +0000" stop="20240608190000 +0000" channel="Net 25"></programme>
+<programme start="20240608190000 +0000" stop="20240608200000 +0000" channel="Net 25"></programme>
+<programme start="20240608200000 +0000" stop="20240608210000 +0000" channel="Net 25"></programme>
+<programme start="20240608210000 +0000" stop="20240608213000 +0000" channel="Net 25"></programme>
+<programme start="20240608213000 +0000" stop="20240608220000 +0000" channel="Net 25"></programme>
+<programme start="20240608220000 +0000" stop="20240608230000 +0000" channel="Net 25"></programme>
+<programme start="20240608230000 +0000" stop="20240608233000 +0000" channel="Net 25"></programme>
+<programme start="20240608233000 +0000" stop="20240609000000 +0000" channel="Net 25"></programme>
+<programme start="20240609000000 +0000" stop="20240609010000 +0000" channel="Net 25"></programme>
+<programme start="20240609010000 +0000" stop="20240609013000 +0000" channel="Net 25"></programme>
+<programme start="20240609013000 +0000" stop="20240609020000 +0000" channel="Net 25"></programme>
+<programme start="20240609020000 +0000" stop="20240609023000 +0000" channel="Net 25"></programme>
+<programme start="20240609023000 +0000" stop="20240609030000 +0000" channel="Net 25"></programme>
+<programme start="20240609030000 +0000" stop="20240609040000 +0000" channel="Net 25"></programme>
+<programme start="20240609040000 +0000" stop="20240609060000 +0000" channel="Net 25"></programme>
+<programme start="20240609060000 +0000" stop="20240609070000 +0000" channel="Net 25"></programme>
+<programme start="20240609070000 +0000" stop="20240609073000 +0000" channel="Net 25"></programme>
+<programme start="20240609073000 +0000" stop="20240609080000 +0000" channel="Net 25"></programme>
+<programme start="20240609080000 +0000" stop="20240609090000 +0000" channel="Net 25"></programme>
+<programme start="20240609090000 +0000" stop="20240609100000 +0000" channel="Net 25"></programme>
+<programme start="20240609100000 +0000" stop="20240609110000 +0000" channel="Net 25"></programme>
+<programme start="20240609110000 +0000" stop="20240609120000 +0000" channel="Net 25"></programme>
+<programme start="20240609120000 +0000" stop="20240609130000 +0000" channel="Net 25"></programme>
+<programme start="20240609130000 +0000" stop="20240609140000 +0000" channel="Net 25"></programme>
+<programme start="20240609140000 +0000" stop="20240609160000 +0000" channel="Net 25"></programme>
+<programme start="20240609160000 +0000" stop="20240610160000 +0000" channel="Net 25"></programme>
+<programme start="20240610160000 +0000" stop="20240610163000 +0000" channel="Net 25"></programme>
+<programme start="20240610163000 +0000" stop="20240610170000 +0000" channel="Net 25"></programme>
+<programme start="20240610170000 +0000" stop="20240610180000 +0000" channel="Net 25"></programme>
+<programme start="20240610180000 +0000" stop="20240610183000 +0000" channel="Net 25"></programme>
+<programme start="20240610183000 +0000" stop="20240610190000 +0000" channel="Net 25"></programme>
+<programme start="20240610190000 +0000" stop="20240610200000 +0000" channel="Net 25"></programme>
+<programme start="20240610200000 +0000" stop="20240610203000 +0000" channel="Net 25"></programme>
+<programme start="20240610203000 +0000" stop="20240610210000 +0000" channel="Net 25"></programme>
+<programme start="20240610210000 +0000" stop="20240610230000 +0000" channel="Net 25"></programme>
+<programme start="20240610230000 +0000" stop="20240611000000 +0000" channel="Net 25"></programme>
+<programme start="20240611000000 +0000" stop="20240611020000 +0000" channel="Net 25"></programme>
+<programme start="20240608180000 +0000" stop="20240608193000 +0000" channel="PBO"></programme>
+<programme start="20240608193000 +0000" stop="20240608213000 +0000" channel="PBO"></programme>
+<programme start="20240608213000 +0000" stop="20240608233000 +0000" channel="PBO"></programme>
+<programme start="20240608233000 +0000" stop="20240609020000 +0000" channel="PBO"></programme>
+<programme start="20240609020000 +0000" stop="20240609030000 +0000" channel="PBO"></programme>
+<programme start="20240609030000 +0000" stop="20240609051500 +0000" channel="PBO"><desc>In the slums of Tondo, one man would rise in a wave of violence as the kingpin of crime. That man, Asiong Salonga, would become public enemy number one, earning the wrath of both the lawful and the lawless.</desc></programme>
+<programme start="20240609051500 +0000" stop="20240609071500 +0000" channel="PBO"></programme>
+<programme start="20240609071500 +0000" stop="20240609093000 +0000" channel="PBO"></programme>
+<programme start="20240609093000 +0000" stop="20240609113000 +0000" channel="PBO"><desc>A doctor is faced with his regrets when a medrep courting his business turns out to be an ex-girlfriend.</desc></programme>
+<programme start="20240609113000 +0000" stop="20240609133000 +0000" channel="PBO"><desc>Five boys finds connection in each other while dealing with school, love and family problems.</desc></programme>
+<programme start="20240609133000 +0000" stop="20240609153000 +0000" channel="PBO"></programme>
+<programme start="20240609153000 +0000" stop="20240609173000 +0000" channel="PBO"></programme>
+<programme start="20240609173000 +0000" stop="20240609193000 +0000" channel="PBO"></programme>
+<programme start="20240609193000 +0000" stop="20240609213000 +0000" channel="PBO"></programme>
+<programme start="20240609213000 +0000" stop="20240609231500 +0000" channel="PBO"></programme>
+<programme start="20240609231500 +0000" stop="20240610011500 +0000" channel="PBO"><desc>A couple prepares for the next step of their relationship: marriage. But their plans are derailed as a third party enters the picture, and the specter infidelity tears them apart.</desc></programme>
+<programme start="20240610011500 +0000" stop="20240610033000 +0000" channel="PBO"></programme>
+<programme start="20240610033000 +0000" stop="20240610053000 +0000" channel="PBO"></programme>
+<programme start="20240610053000 +0000" stop="20240610073000 +0000" channel="PBO"><desc>Heartbroken that his longtime crush is now attached to a woman, a gay man sets out to ruin that relationship by pretending to be straight and courting the affections of his loves girlfriend.</desc></programme>
+<programme start="20240610073000 +0000" stop="20240610093000 +0000" channel="PBO"><desc>A doctor returns to his hometown to confront the murderer of his older brother. He soon discovers that the murderer is something other than human, with a thirst for blood and supernatural abilities. He must use all his skills to defeat him, or everyone in the town may be killed.</desc></programme>
+<programme start="20240610093000 +0000" stop="20240610113000 +0000" channel="PBO"></programme>
+<programme start="20240610113000 +0000" stop="20240610133000 +0000" channel="PBO"></programme>
+<programme start="20240610133000 +0000" stop="20240610153000 +0000" channel="PBO"><desc>When Christine was found brutally killed in the woods, her boyfriend, a forest ranger and a farmer are summoned for inquest. Each has a version to tell. But as the case deepens, they discover the shocking truth.</desc></programme>
+<programme start="20240610153000 +0000" stop="20240610173000 +0000" channel="PBO"></programme>
+<programme start="20240610173000 +0000" stop="20240610193000 +0000" channel="PBO"></programme>
+<programme start="20240610193000 +0000" stop="20240610213000 +0000" channel="PBO"></programme>
+<programme start="20240610213000 +0000" stop="20240610231500 +0000" channel="PBO"></programme>
+<programme start="20240610231500 +0000" stop="20240611013000 +0000" channel="PBO"><desc>Aprilyn who is left by his groom on the day of their wedding becomes viral online. Devastated, she meets Raffy who works at a PR agency hired by the father of the groom who will help her move on.</desc></programme>
+<programme start="20240608230000 +0000" stop="20240608233000 +0000" channel="PTV"></programme>
+<programme start="20240608233000 +0000" stop="20240609020000 +0000" channel="PTV"></programme>
+<programme start="20240609020000 +0000" stop="20240609023000 +0000" channel="PTV"></programme>
+<programme start="20240609023000 +0000" stop="20240609030000 +0000" channel="PTV"></programme>
+<programme start="20240609030000 +0000" stop="20240609040000 +0000" channel="PTV"></programme>
+<programme start="20240609040000 +0000" stop="20240609043000 +0000" channel="PTV"></programme>
+<programme start="20240609043000 +0000" stop="20240609050000 +0000" channel="PTV"></programme>
+<programme start="20240609050000 +0000" stop="20240609053000 +0000" channel="PTV"></programme>
+<programme start="20240609053000 +0000" stop="20240609060000 +0000" channel="PTV"></programme>
+<programme start="20240609060000 +0000" stop="20240609061500 +0000" channel="PTV"></programme>
+<programme start="20240609061500 +0000" stop="20240609070000 +0000" channel="PTV"></programme>
+<programme start="20240609070000 +0000" stop="20240609080000 +0000" channel="PTV"></programme>
+<programme start="20240609080000 +0000" stop="20240609090000 +0000" channel="PTV"></programme>
+<programme start="20240609090000 +0000" stop="20240609091500 +0000" channel="PTV"></programme>
+<programme start="20240609091500 +0000" stop="20240609094500 +0000" channel="PTV"></programme>
+<programme start="20240609094500 +0000" stop="20240609100000 +0000" channel="PTV"></programme>
+<programme start="20240609100000 +0000" stop="20240609110000 +0000" channel="PTV"></programme>
+<programme start="20240609110000 +0000" stop="20240609120000 +0000" channel="PTV"></programme>
+<programme start="20240609120000 +0000" stop="20240609130000 +0000" channel="PTV"></programme>
+<programme start="20240609130000 +0000" stop="20240609133000 +0000" channel="PTV"></programme>
+<programme start="20240609133000 +0000" stop="20240609140000 +0000" channel="PTV"></programme>
+<programme start="20240609140000 +0000" stop="20240609150000 +0000" channel="PTV"></programme>
+<programme start="20240609150000 +0000" stop="20240609213000 +0000" channel="PTV"></programme>
+<programme start="20240609213000 +0000" stop="20240609220000 +0000" channel="PTV"></programme>
+<programme start="20240609220000 +0000" stop="20240610000000 +0000" channel="PTV"></programme>
+<programme start="20240610000000 +0000" stop="20240610003000 +0000" channel="PTV"></programme>
+<programme start="20240610003000 +0000" stop="20240610010000 +0000" channel="PTV"></programme>
+<programme start="20240610010000 +0000" stop="20240610020000 +0000" channel="PTV"></programme>
+<programme start="20240610020000 +0000" stop="20240610030000 +0000" channel="PTV"></programme>
+<programme start="20240610030000 +0000" stop="20240610040000 +0000" channel="PTV"></programme>
+<programme start="20240610040000 +0000" stop="20240610050000 +0000" channel="PTV"></programme>
+<programme start="20240610050000 +0000" stop="20240610060000 +0000" channel="PTV"></programme>
+<programme start="20240610060000 +0000" stop="20240610061500 +0000" channel="PTV"></programme>
+<programme start="20240610061500 +0000" stop="20240610070000 +0000" channel="PTV"></programme>
+<programme start="20240610070000 +0000" stop="20240610080000 +0000" channel="PTV"></programme>
+<programme start="20240610080000 +0000" stop="20240610090000 +0000" channel="PTV"></programme>
+<programme start="20240610090000 +0000" stop="20240610091500 +0000" channel="PTV"></programme>
+<programme start="20240610091500 +0000" stop="20240610100000 +0000" channel="PTV"></programme>
+<programme start="20240610100000 +0000" stop="20240610111500 +0000" channel="PTV"></programme>
+<programme start="20240610111500 +0000" stop="20240610120000 +0000" channel="PTV"></programme>
+<programme start="20240610120000 +0000" stop="20240610130000 +0000" channel="PTV"></programme>
+<programme start="20240610130000 +0000" stop="20240610133000 +0000" channel="PTV"></programme>
+<programme start="20240610133000 +0000" stop="20240610143000 +0000" channel="PTV"></programme>
+<programme start="20240610143000 +0000" stop="20240610150000 +0000" channel="PTV"></programme>
+<programme start="20240610150000 +0000" stop="20240610213000 +0000" channel="PTV"></programme>
+<programme start="20240610213000 +0000" stop="20240610220000 +0000" channel="PTV"></programme>
+<programme start="20240610220000 +0000" stop="20240611000000 +0000" channel="PTV"></programme>
+<programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="PTV"></programme>
+<programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="PTV"></programme>
+<programme start="20240608170500 +0000" stop="20240608184000 +0000" channel="Rock Entertainment"><desc>Some time after saving his town from his invention, Flint Lockwood discovers that the machine is still operational, and has been creating mutant food creatures on a remote island.</desc></programme>
+<programme start="20240608184000 +0000" stop="20240608201000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240608201000 +0000" stop="20240608214500 +0000" channel="Rock Entertainment"><desc>A boy raised by apes battles an evil corporation trying to get at a dangerous energy source in the heart of a mountain.</desc></programme>
+<programme start="20240608214500 +0000" stop="20240608232500 +0000" channel="Rock Entertainment"><desc>The flightless birds and scheming green pigs take their feud to the next level.</desc></programme>
+<programme start="20240608232500 +0000" stop="20240609010000 +0000" channel="Rock Entertainment"><desc>Some time after saving his town from his invention, Flint Lockwood discovers that the machine is still operational, and has been creating mutant food creatures on a remote island.</desc></programme>
+<programme start="20240609010000 +0000" stop="20240609023500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609023500 +0000" stop="20240609041000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609041000 +0000" stop="20240609054500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609054500 +0000" stop="20240609074500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609074500 +0000" stop="20240609092000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609092000 +0000" stop="20240609110000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609110000 +0000" stop="20240609123500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609123500 +0000" stop="20240609143500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609143500 +0000" stop="20240609161000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609161000 +0000" stop="20240609174500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609174500 +0000" stop="20240609192000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609192000 +0000" stop="20240609211500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609211500 +0000" stop="20240609220000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609220000 +0000" stop="20240609224500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609224500 +0000" stop="20240609233000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240609233000 +0000" stop="20240610024000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610024000 +0000" stop="20240610041500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610041500 +0000" stop="20240610055000 +0000" channel="Rock Entertainment"><desc>A boy raised by apes battles an evil corporation trying to get at a dangerous energy source in the heart of a mountain.</desc></programme>
+<programme start="20240610055000 +0000" stop="20240610063500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610063500 +0000" stop="20240610072000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610072000 +0000" stop="20240610104000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610104000 +0000" stop="20240610121500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610121500 +0000" stop="20240610143000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610143000 +0000" stop="20240610151500 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610151500 +0000" stop="20240610160000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240610160000 +0000" stop="20240611160000 +0000" channel="Rock Entertainment"></programme>
+<programme start="20240608160000 +0000" stop="20240608180000 +0000" channel="Solar Flix"></programme>
+<programme start="20240608180000 +0000" stop="20240608200000 +0000" channel="Solar Flix"></programme>
+<programme start="20240608200000 +0000" stop="20240608220000 +0000" channel="Solar Flix"><desc>A team of journalists in Boston defy authority as they investigate allegations of sexual abuse within the Catholic Church.</desc></programme>
+<programme start="20240608220000 +0000" stop="20240609000000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609000000 +0000" stop="20240609003000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609003000 +0000" stop="20240609010000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609010000 +0000" stop="20240609013000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609013000 +0000" stop="20240609020000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609020000 +0000" stop="20240609030000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609030000 +0000" stop="20240609050000 +0000" channel="Solar Flix"><desc>Tonya Harding dominated the ice with unrivaled athleticism. She dominated the headlines for something else entirely. "I, Tonya" is an at times absurd, tragic and hilarious look at the woman at the center of the biggest scandal in sports history.</desc></programme>
+<programme start="20240609050000 +0000" stop="20240609052500 +0000" channel="Solar Flix"></programme>
+<programme start="20240609052500 +0000" stop="20240609055500 +0000" channel="Solar Flix"></programme>
+<programme start="20240609055500 +0000" stop="20240609103000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609103000 +0000" stop="20240609123000 +0000" channel="Solar Flix"><desc>A documentary following the legendary band The Beatles during their years touring the world at the height of Beatlemania.</desc></programme>
+<programme start="20240609123000 +0000" stop="20240609143000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609143000 +0000" stop="20240609150000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609150000 +0000" stop="20240609153000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609153000 +0000" stop="20240609160000 +0000" channel="Solar Flix"></programme>
+<programme start="20240609160000 +0000" stop="20240610160000 +0000" channel="Solar Flix"></programme>
+<programme start="20240610160000 +0000" stop="20240610170000 +0000" channel="Solar Flix"></programme>
+<programme start="20240610170000 +0000" stop="20240610180000 +0000" channel="Solar Flix"></programme>
+<programme start="20240610180000 +0000" stop="20240610200000 +0000" channel="Solar Flix"></programme>
+<programme start="20240610200000 +0000" stop="20240610220000 +0000" channel="Solar Flix"><desc>A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge and betrayal.</desc></programme>
+<programme start="20240610220000 +0000" stop="20240611000000 +0000" channel="Solar Flix"></programme>
+<programme start="20240611000000 +0000" stop="20240611020000 +0000" channel="Solar Flix"></programme>
+<programme start="20240608160000 +0000" stop="20240608180000 +0000" channel="Tagalized Movie Channel"><desc>Two Chinese immigrant brothers in New York in the 1980s rise up the ranks of a criminal gang, and end up on opposite sides of a struggle for control.</desc></programme>
+<programme start="20240608180000 +0000" stop="20240608200000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240608200000 +0000" stop="20240608220000 +0000" channel="Tagalized Movie Channel"><desc>It follows Julia who is a vlogger from Germany visiting a cousin in the US. Upon her arrival, Julia falls ill and strange things start taking place in their home.</desc></programme>
+<programme start="20240608220000 +0000" stop="20240609000000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609000000 +0000" stop="20240609020000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609020000 +0000" stop="20240609040000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609040000 +0000" stop="20240609060000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609060000 +0000" stop="20240609080000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609080000 +0000" stop="20240609100000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609100000 +0000" stop="20240609120000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609120000 +0000" stop="20240609140000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609140000 +0000" stop="20240609160000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240609160000 +0000" stop="20240610160000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240610160000 +0000" stop="20240610180000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240610180000 +0000" stop="20240610200000 +0000" channel="Tagalized Movie Channel"><desc>A woman wakes up everyday with no memory of whats happened in the last ten years. With help from a doctor, she attempts to piece together memories, and find out the truth about the incident that caused her condition.</desc></programme>
+<programme start="20240610200000 +0000" stop="20240610220000 +0000" channel="Tagalized Movie Channel"><desc>It is a dramatic story of the cutthroat race between electricity titans Thomas Edison and George Westinghouse to determine whose electrical system would power the modern world.</desc></programme>
+<programme start="20240610220000 +0000" stop="20240611000000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240611000000 +0000" stop="20240611020000 +0000" channel="Tagalized Movie Channel"></programme>
+<programme start="20240608163000 +0000" stop="20240608210000 +0000" channel="TV5"></programme>
+<programme start="20240608210000 +0000" stop="20240608213000 +0000" channel="TV5"></programme>
+<programme start="20240608213000 +0000" stop="20240608220000 +0000" channel="TV5"></programme>
+<programme start="20240608220000 +0000" stop="20240608230000 +0000" channel="TV5"></programme>
+<programme start="20240608230000 +0000" stop="20240609000000 +0000" channel="TV5"></programme>
+<programme start="20240609000000 +0000" stop="20240609010000 +0000" channel="TV5"></programme>
+<programme start="20240609010000 +0000" stop="20240609020000 +0000" channel="TV5"></programme>
+<programme start="20240609020000 +0000" stop="20240609040000 +0000" channel="TV5"></programme>
+<programme start="20240609040000 +0000" stop="20240609060000 +0000" channel="TV5"></programme>
+<programme start="20240609060000 +0000" stop="20240609080000 +0000" channel="TV5"></programme>
+<programme start="20240609080000 +0000" stop="20240609084500 +0000" channel="TV5"></programme>
+<programme start="20240609084500 +0000" stop="20240609093000 +0000" channel="TV5"></programme>
+<programme start="20240609093000 +0000" stop="20240609101500 +0000" channel="TV5"></programme>
+<programme start="20240609101500 +0000" stop="20240609111500 +0000" channel="TV5"></programme>
+<programme start="20240609111500 +0000" stop="20240609124500 +0000" channel="TV5"></programme>
+<programme start="20240609124500 +0000" stop="20240609134500 +0000" channel="TV5"></programme>
+<programme start="20240609134500 +0000" stop="20240609144500 +0000" channel="TV5"></programme>
+<programme start="20240609144500 +0000" stop="20240609153000 +0000" channel="TV5"></programme>
+<programme start="20240609153000 +0000" stop="20240609210000 +0000" channel="TV5"></programme>
+<programme start="20240609210000 +0000" stop="20240609220000 +0000" channel="TV5"></programme>
+<programme start="20240609220000 +0000" stop="20240609223000 +0000" channel="TV5"></programme>
+<programme start="20240609223000 +0000" stop="20240609233000 +0000" channel="TV5"></programme>
+<programme start="20240609233000 +0000" stop="20240610003000 +0000" channel="TV5"></programme>
+<programme start="20240610003000 +0000" stop="20240610010000 +0000" channel="TV5"></programme>
+<programme start="20240610010000 +0000" stop="20240610023000 +0000" channel="TV5"></programme>
+<programme start="20240610023000 +0000" stop="20240610030000 +0000" channel="TV5"></programme>
+<programme start="20240610030000 +0000" stop="20240610040000 +0000" channel="TV5"></programme>
+<programme start="20240610040000 +0000" stop="20240610063000 +0000" channel="TV5"></programme>
+<programme start="20240610063000 +0000" stop="20240610071500 +0000" channel="TV5"></programme>
+<programme start="20240610071500 +0000" stop="20240610073000 +0000" channel="TV5"></programme>
+<programme start="20240610073000 +0000" stop="20240610093000 +0000" channel="TV5"></programme>
+<programme start="20240610093000 +0000" stop="20240610103000 +0000" channel="TV5"></programme>
+<programme start="20240610103000 +0000" stop="20240610120000 +0000" channel="TV5"></programme>
+<programme start="20240610120000 +0000" stop="20240610124500 +0000" channel="TV5"></programme>
+<programme start="20240610124500 +0000" stop="20240610133000 +0000" channel="TV5"></programme>
+<programme start="20240610133000 +0000" stop="20240610141500 +0000" channel="TV5"></programme>
+<programme start="20240610141500 +0000" stop="20240610144500 +0000" channel="TV5"></programme>
+<programme start="20240610144500 +0000" stop="20240610153000 +0000" channel="TV5"></programme>
+<programme start="20240610153000 +0000" stop="20240610210000 +0000" channel="TV5"></programme>
+<programme start="20240610210000 +0000" stop="20240610220000 +0000" channel="TV5"></programme>
+<programme start="20240610220000 +0000" stop="20240610223000 +0000" channel="TV5"></programme>
+<programme start="20240610223000 +0000" stop="20240610233000 +0000" channel="TV5"></programme>
+<programme start="20240610233000 +0000" stop="20240611003000 +0000" channel="TV5"></programme>
+<programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="TV5"></programme>
+<programme start="20240608160000 +0000" stop="20240608180000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240608180000 +0000" stop="20240608200000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240608200000 +0000" stop="20240608220000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240608220000 +0000" stop="20240609001500 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609001500 +0000" stop="20240609020000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609020000 +0000" stop="20240609040000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609040000 +0000" stop="20240609060000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609060000 +0000" stop="20240609080000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609080000 +0000" stop="20240609100000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609100000 +0000" stop="20240609120000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609120000 +0000" stop="20240609141500 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609141500 +0000" stop="20240609163000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609163000 +0000" stop="20240609180000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609180000 +0000" stop="20240609200000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609200000 +0000" stop="20240609220000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240609220000 +0000" stop="20240610000000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610000000 +0000" stop="20240610021500 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610021500 +0000" stop="20240610041500 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610041500 +0000" stop="20240610060000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610060000 +0000" stop="20240610080000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610080000 +0000" stop="20240610101500 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610101500 +0000" stop="20240610120000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610120000 +0000" stop="20240610140000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610140000 +0000" stop="20240610161500 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610161500 +0000" stop="20240610180000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610180000 +0000" stop="20240610200000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610200000 +0000" stop="20240610220000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240610220000 +0000" stop="20240611000000 +0000" channel="VIVA Cinema"></programme>
+<programme start="20240611000000 +0000" stop="20240611021500 +0000" channel="VIVA Cinema"></programme>
+</tv>
