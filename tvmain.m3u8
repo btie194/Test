@@ -51,7 +51,7 @@ http://abcnew.site:8880/D12m2819/61296162/50123
 http://abcnew.site:8880/D12m2819/61296162/50122
 #EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.ph" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/NHKWorld.png" group-title="Philippines",NHK WORLD |AN|
 http://abcnew.site:8880/D12m2819/61296162/50121
-#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="ARIRANG TV WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Arirang.png" group-title="Philippines",ARIRANG TV WORLD |AN|
+#EXTINF:-1 tvg-id="ARIRANG.ph" tvg-name="ARIRANG TV WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Arirang.png" group-title="Philippines",ARIRANG TV WORLD |AN|
 http://abcnew.site:8880/D12m2819/61296162/50120
 #EXTINF:-1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines",Cinema One |AN|
 http://abcnew.site:8880/D12m2819/61296162/50119
@@ -91,9 +91,6 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="Philippines" , CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="All Channels" , GTV
-https://ssh101-fl.bozztv.com/ssh101/gtvv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Free TV" , Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -242,7 +239,7 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="International" , AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title=International" , BBC Food
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title="International" , BBC Food
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="International" , America's Got Talent
