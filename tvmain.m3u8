@@ -19,67 +19,67 @@ http://cord-cutter.net:8080/X5xRz0/944877/101826#checkedby:alliptvlinks.com
 http://cord-cutter.net:8080/k4Svp2/645504/101826#checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV 3
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101826#checkedby:alliptvlinks.com
-#EXTINF:0 tvg-id="TV5.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines",TV5 HD |QP|
+#EXTINF:0 tvg-id="TV5.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:0 tvg-id="CINEMA.ONE.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines",Cinema One |C1|
+#EXTINF:0 tvg-id="CINEMA.ONE.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MYX.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/myx.png" group-title="Philippines",MYX Philippines |M|
+#EXTINF:0 tvg-id="MYX.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/myx.png" group-title="Philippines",MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines",One News HD |CC|
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD
 http://cord-cutter.net:8080/X5xRz0/944877/101774#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines",One News HD 2 |CC|
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD 2
 http://cord-cutter.net:8080/k4Svp2/645504/101774#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines",One News HD 3 |CC|
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD 3
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101774#checkedby:alliptvlinks.com
 
 
-#EXTINF:-1 tvg-id="KNOWLEDGE.CHANNEL.ph" tvg-name="Knowledge" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Knowledge.png" group-title="Philippines",Knowledge |AN|
+#EXTINF:-1 tvg-id="KNOWLEDGE.CHANNEL.ph" tvg-name="Knowledge" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Knowledge.png" group-title="Philippines | AN",Knowledge
 http://abcnew.site:8880/D12m2819/61296162/50129
-#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/anc.png" group-title="Philippines",ANC |AN|
+#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/anc.png" group-title="Philippines | AN",ANC
 http://abcnew.site:8880/D12m2819/61296162/50128
-#EXTINF:-1 tvg-id="Pbarush.Hd.ph" tvg-name="PBA RUSH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PBARush.png" group-title="Philippines",PBA RUSH |AN|
+#EXTINF:-1 tvg-id="Pbarush.Hd.ph" tvg-name="PBA RUSH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PBARush.png" group-title="Philippines | AN",PBA RUSH
 http://abcnew.site:8880/D12m2819/61296162/50127
-#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-name="GMA LIFE HD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines",GMA LIFE HD |AN|
+#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-name="GMA LIFE HD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | AN",GMA LIFE HD
 http://abcnew.site:8880/D12m2819/61296162/50126
-#EXTINF:-1 tvg-id="English.-.GMA.News.TV.hk" tvg-name=GMA NEWS" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMANews.png" group-title="Philippines",GMA NEWS |AN|
+#EXTINF:-1 tvg-id="English.-.GMA.News.TV.hk" tvg-name=GMA NEWS" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMANews.png" group-title="Philippines | AN",GMA NEWS
 http://abcnew.site:8880/D12m2819/61296162/50125
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-name="GMA PINOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines",GMA PINOY TV HD |AN|
+#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-name="GMA PINOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | AN",GMA PINOY TV HD
 http://abcnew.site:8880/D12m2819/61296162/50124
-#EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="Teleradyo" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TeleRadyo.png" group-title="Philippines",Teleradyo |AN|
+#EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="Teleradyo" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TeleRadyo.png" group-title="Philippines | AN",Teleradyo
 http://abcnew.site:8880/D12m2819/61296162/50123
-#EXTINF:-1 tvg-id="ANIMAX.ph" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Animax.png" group-title="Philippines",ANIMAX |AN|
+#EXTINF:-1 tvg-id="ANIMAX.ph" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Animax.png" group-title="Philippines | AN",ANIMAX
 http://abcnew.site:8880/D12m2819/61296162/50122
-#EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.ph" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/NHKWorld.png" group-title="Philippines",NHK WORLD |AN|
+#EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.ph" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/NHKWorld.png" group-title="Philippines | AN",NHK WORLD
 http://abcnew.site:8880/D12m2819/61296162/50121
-#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="ARIRANG TV WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Arirang.png" group-title="Philippines",ARIRANG TV WORLD |AN|
+#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="ARIRANG TV WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Arirang.png" group-title="Philippines | AN",ARIRANG TV WORLD
 http://abcnew.site:8880/D12m2819/61296162/50120
-#EXTINF:-1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines",Cinema One |AN|
+#EXTINF:-1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines | AN",Cinema One
 http://abcnew.site:8880/D12m2819/61296162/50119
-#EXTINF:-1 tvg-id="Uaap.Varsity.ph" tvg-name="UAAP Varsity" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/UAAPVarsity.png" group-title="Philippines",UAAP Varsity |AN|
+#EXTINF:-1 tvg-id="Uaap.Varsity.ph" tvg-name="UAAP Varsity" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/UAAPVarsity.png" group-title="Philippines | AN",UAAP Varsity
 http://abcnew.site:8880/D12m2819/61296162/50118
-#EXTINF:-1 tvg-id="TapAction.Flix.ph" tvg-name="Tap Action Flix" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPAction.png" group-title="Philippines",Tap Action Flix |AN|
+#EXTINF:-1 tvg-id="TapAction.Flix.ph" tvg-name="Tap Action Flix" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPAction.png" group-title="Philippines | AN",Tap Action Flix
 http://abcnew.site:8880/D12m2819/61296162/50117
-#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-name="TFC" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines",TFC |AN|
+#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-name="TFC" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | AN",TFC
 http://abcnew.site:8880/D12m2819/61296162/50116
-#EXTINF:-1 tvg-id="DISCOVERY.ASIA.ph" tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/DiscoveryAsia.png" group-title="Philippines",Discovery Asia |AN|
+#EXTINF:-1 tvg-id="DISCOVERY.ASIA.ph" tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/DiscoveryAsia.png" group-title="Philippines | AN",Discovery Asia
 http://abcnew.site:8880/D12m2819/61296162/49969
-#EXTINF:-1 tvg-id="ANIMAL.PLANET.ph" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/AnimalPlanet.png" group-title="Philippines",Animal Planet |AN|
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.ph" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/AnimalPlanet.png" group-title="Philippines | AN",Animal Planet
 http://abcnew.site:8880/D12m2819/61296162/66820
-#EXTINF:-1 tvg-id="TV5.ph" tvg-name="PH017:TV5" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines",TV5 HD |AN|
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="PH017:TV5" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines | AN",TV5 HD
 http://abcnew.site:8880/D12m2819/61296162/66821
-#EXTINF:-1 tvg-id="PARAMOUNTNETWORK.ph" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Paramount.png" group-title="Philippines",Paramount |AN|
+#EXTINF:-1 tvg-id="PARAMOUNTNETWORK.ph" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Paramount.png" group-title="Philippines | AN",Paramount
 http://abcnew.site:8880/D12m2819/61296162/66822
-#EXTINF:-1 tvg-id="PREMIER.SPORTS.ph" tvg-name="Premier Sports" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PremierSports.png" group-title="Philippines",Premier Sports |AN|
+#EXTINF:-1 tvg-id="PREMIER.SPORTS.ph" tvg-name="Premier Sports" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PremierSports.png" group-title="Philippines | AN",Premier Sports
 http://abcnew.site:8880/D12m2819/61296162/66823
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-name="One News" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines",One News |AN|
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-name="One News" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | AN",One News |AN|
 http://abcnew.site:8880/D12m2819/61296162/66824
-#EXTINF:-1 tvg-id="TAP.MOVIES.ph" tvg-name="TAP Movies" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPMovies.png" group-title="Philippines",TAP Movies |AN|
+#EXTINF:-1 tvg-id="TAP.MOVIES.ph" tvg-name="TAP Movies" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPMovies.png" group-title="Philippines | AN",TAP Movies |AN|
 http://abcnew.site:8880/D12m2819/61296162/66825
-#EXTINF:-1 tvg-id="TAP.TV.ph" tvg-name="TAP TV" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPTv.png" group-title="Philippines",TAP TV |AN|
+#EXTINF:-1 tvg-id="TAP.TV.ph" tvg-name="TAP TV" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPTv.png" group-title="Philippines | AN",TAP TV |AN|
 http://abcnew.site:8880/D12m2819/61296162/66826
-#EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-name="One Sports Plus" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/OneSportsPlus.png" group-title="Philippines",One Sports Plus |AN|
+#EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-name="One Sports Plus" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/OneSportsPlus.png" group-title="Philippines | AN",One Sports Plus
 http://abcnew.site:8880/D12m2819/61296162/66827
-#EXTINF:-1 tvg-id="ASIAN.FOOD.NETWORK.ph" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/AsianFoodNetwork.png" group-title="Philippines",Asian Food Network |AN|
+#EXTINF:-1 tvg-id="ASIAN.FOOD.NETWORK.ph" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/AsianFoodNetwork.png" group-title="Philippines | AN",Asian Food Network
 http://abcnew.site:8880/D12m2819/61296162/66828
 
 
