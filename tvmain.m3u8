@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="i24.News.us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/i24.png" group-title="News",i24NEWS
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="TFC.sa" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC |CC|
+#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC |CC|
 http://cord-cutter.net:8080/X5xRz0/944877/101823#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="TFC.sa" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC 2 |CC|
+#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC 2 |CC|
 http://cord-cutter.net:8080/k4Svp2/645504/101823#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="TFC.sa" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC 3 |CC|
+#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png",TFC 3 |CC|
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101823#checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png",GMA Life TV |CC|
 http://cord-cutter.net:8080/X5xRz0/944877/101825#checkedby:alliptvlinks.com
