@@ -1,90 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="i24.News.us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/i24.png" group-title="International",i24NEWS
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC
-http://cord-cutter.net:8080/X5xRz0/944877/101823#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC 2
-http://cord-cutter.net:8080/k4Svp2/645504/101823#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC 3
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101823#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV
-http://cord-cutter.net:8080/X5xRz0/944877/101825#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV 2
-http://cord-cutter.net:8080/k4Svp2/645504/101825#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV 3
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101825#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV
-http://cord-cutter.net:8080/X5xRz0/944877/101826#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV 2
-http://cord-cutter.net:8080/k4Svp2/645504/101826#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV 3
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101826#checkedby:alliptvlinks.com
 #EXTINF:0 tvg-id="TV5.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+
+#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC.ph" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png" group-title="Philippines" , ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="CINEMA.ONE.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-id="MYX.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/myx.png" group-title="Philippines",MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD
-http://cord-cutter.net:8080/X5xRz0/944877/101774#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD 2
-http://cord-cutter.net:8080/k4Svp2/645504/101774#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD 3
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101774#checkedby:alliptvlinks.com
 
-
-#EXTINF:-1 tvg-id="KNOWLEDGE.CHANNEL.ph" tvg-name="Knowledge" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Knowledge.png" group-title="Philippines | AN",Knowledge
-http://abcnew.site:8880/D12m2819/61296162/50129
-#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/anc.png" group-title="Philippines | AN",ANC
-http://abcnew.site:8880/D12m2819/61296162/50128
-#EXTINF:-1 tvg-id="Pbarush.Hd.ph" tvg-name="PBA RUSH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PBARush.png" group-title="Philippines | AN",PBA RUSH
-http://abcnew.site:8880/D12m2819/61296162/50127
-#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-name="GMA LIFE HD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | AN",GMA LIFE HD
-http://abcnew.site:8880/D12m2819/61296162/50126
-#EXTINF:-1 tvg-id="English.-.GMA.News.TV.hk" tvg-name=GMA NEWS" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMANews.png" group-title="Philippines | AN",GMA NEWS
-http://abcnew.site:8880/D12m2819/61296162/50125
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-name="GMA PINOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | AN",GMA PINOY TV HD
-http://abcnew.site:8880/D12m2819/61296162/50124
-#EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="Teleradyo" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TeleRadyo.png" group-title="Philippines | AN",Teleradyo
-http://abcnew.site:8880/D12m2819/61296162/50123
-#EXTINF:-1 tvg-id="ANIMAX.ph" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Animax.png" group-title="Philippines | AN",ANIMAX
-http://abcnew.site:8880/D12m2819/61296162/50122
-#EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.ph" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/NHKWorld.png" group-title="Philippines | AN",NHK WORLD
-http://abcnew.site:8880/D12m2819/61296162/50121
-#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="ARIRANG TV WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Arirang.png" group-title="Philippines | AN",ARIRANG TV WORLD
-http://abcnew.site:8880/D12m2819/61296162/50120
-#EXTINF:-1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines | AN",Cinema One
-http://abcnew.site:8880/D12m2819/61296162/50119
-#EXTINF:-1 tvg-id="Uaap.Varsity.ph" tvg-name="UAAP Varsity" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/UAAPVarsity.png" group-title="Philippines | AN",UAAP Varsity
-http://abcnew.site:8880/D12m2819/61296162/50118
-#EXTINF:-1 tvg-id="TapAction.Flix.ph" tvg-name="Tap Action Flix" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPAction.png" group-title="Philippines | AN",Tap Action Flix
-http://abcnew.site:8880/D12m2819/61296162/50117
-#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-name="TFC" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | AN",TFC
-http://abcnew.site:8880/D12m2819/61296162/50116
-#EXTINF:-1 tvg-id="DISCOVERY.ASIA.ph" tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/DiscoveryAsia.png" group-title="Philippines | AN",Discovery Asia
-http://abcnew.site:8880/D12m2819/61296162/49969
-#EXTINF:-1 tvg-id="ANIMAL.PLANET.ph" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/AnimalPlanet.png" group-title="Philippines | AN",Animal Planet
-http://abcnew.site:8880/D12m2819/61296162/66820
-#EXTINF:-1 tvg-id="TV5.ph" tvg-name="PH017:TV5" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines | AN",TV5 HD
-http://abcnew.site:8880/D12m2819/61296162/66821
-#EXTINF:-1 tvg-id="PARAMOUNTNETWORK.ph" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Paramount.png" group-title="Philippines | AN",Paramount
-http://abcnew.site:8880/D12m2819/61296162/66822
-#EXTINF:-1 tvg-id="PREMIER.SPORTS.ph" tvg-name="Premier Sports" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PremierSports.png" group-title="Philippines | AN",Premier Sports
-http://abcnew.site:8880/D12m2819/61296162/66823
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-name="One News" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | AN",One News |AN|
-http://abcnew.site:8880/D12m2819/61296162/66824
-#EXTINF:-1 tvg-id="TAP.MOVIES.ph" tvg-name="TAP Movies" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPMovies.png" group-title="Philippines | AN",TAP Movies |AN|
-http://abcnew.site:8880/D12m2819/61296162/66825
-#EXTINF:-1 tvg-id="TAP.TV.ph" tvg-name="TAP TV" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPTv.png" group-title="Philippines | AN",TAP TV |AN|
-http://abcnew.site:8880/D12m2819/61296162/66826
-#EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-name="One Sports Plus" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/OneSportsPlus.png" group-title="Philippines | AN",One Sports Plus
-http://abcnew.site:8880/D12m2819/61296162/66827
-#EXTINF:-1 tvg-id="ASIAN.FOOD.NETWORK.ph" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/AsianFoodNetwork.png" group-title="Philippines | AN",Asian Food Network
-http://abcnew.site:8880/D12m2819/61296162/66828
-
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Philippines" , CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="Philippines" , One Sports+
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+
+#EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines" , TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="Truefmtv.ph" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="Philippines" , True FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
@@ -92,62 +26,128 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="Philippines" , CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Free TV" , Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines" , TeleRadyo Serbisyo
-https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC
+http://cord-cutter.net:8080/X5xRz0/944877/101823#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC 2
+http://cord-cutter.net:8080/k4Svp2/645504/101823#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC 3
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101823#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV
+http://cord-cutter.net:8080/X5xRz0/944877/101825#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV 2
+http://cord-cutter.net:8080/k4Svp2/645504/101825#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV 3
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101825#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV
+http://cord-cutter.net:8080/X5xRz0/944877/101826#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV 2
+http://cord-cutter.net:8080/k4Svp2/645504/101826#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV 3
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101826#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD
+http://cord-cutter.net:8080/X5xRz0/944877/101774#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD 2
+http://cord-cutter.net:8080/k4Svp2/645504/101774#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD 3
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101774#checkedby:alliptvlinks.com
+
+
+
+
+
+#EXTINF:-1 tvg-id="KNOWLEDGE.CHANNEL.ph" tvg-name="Knowledge" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Knowledge.png" group-title="Philippines | AN",Knowledge
+http://abcnew.site:8880/D12m2819/61296162/50129
+
+#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/anc.png" group-title="Philippines | AN",ANC
+http://abcnew.site:8880/D12m2819/61296162/50128
+
+#EXTINF:-1 tvg-id="Pbarush.Hd.ph" tvg-name="PBA RUSH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PBARush.png" group-title="Philippines | AN",PBA RUSH
+http://abcnew.site:8880/D12m2819/61296162/50127
+
+#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-name="GMA LIFE HD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | AN",GMA LIFE HD
+http://abcnew.site:8880/D12m2819/61296162/50126
+
+#EXTINF:-1 tvg-id="English.-.GMA.News.TV.hk" tvg-name=GMA NEWS" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMANews.png" group-title="Philippines | AN",GMA NEWS
+http://abcnew.site:8880/D12m2819/61296162/50125
+
+#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-name="GMA PINOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | AN",GMA PINOY TV HD
+http://abcnew.site:8880/D12m2819/61296162/50124
+
+#EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="Teleradyo" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TeleRadyo.png" group-title="Philippines | AN",Teleradyo
+http://abcnew.site:8880/D12m2819/61296162/50123
+
+#EXTINF:-1 tvg-id="ANIMAX.ph" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Animax.png" group-title="Philippines | AN",ANIMAX
+http://abcnew.site:8880/D12m2819/61296162/50122
+
+#EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.ph" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/NHKWorld.png" group-title="Philippines | AN",NHK WORLD
+http://abcnew.site:8880/D12m2819/61296162/50121
+
+#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="ARIRANG TV WORLD" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Arirang.png" group-title="Philippines | AN",ARIRANG TV WORLD
+http://abcnew.site:8880/D12m2819/61296162/50120
+
+#EXTINF:-1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines | AN",Cinema One
+http://abcnew.site:8880/D12m2819/61296162/50119
+
+#EXTINF:-1 tvg-id="Uaap.Varsity.ph" tvg-name="UAAP Varsity" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/UAAPVarsity.png" group-title="Philippines | AN",UAAP Varsity
+http://abcnew.site:8880/D12m2819/61296162/50118
+
+#EXTINF:-1 tvg-id="TapAction.Flix.ph" tvg-name="Tap Action Flix" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPAction.png" group-title="Philippines | AN",Tap Action Flix
+http://abcnew.site:8880/D12m2819/61296162/50117
+
+#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-name="TFC" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | AN",TFC
+http://abcnew.site:8880/D12m2819/61296162/50116
+
+#EXTINF:-1 tvg-id="DISCOVERY.ASIA.ph" tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/DiscoveryAsia.png" group-title="Philippines | AN",Discovery Asia
+http://abcnew.site:8880/D12m2819/61296162/49969
+
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.ph" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/AnimalPlanet.png" group-title="Philippines | AN",Animal Planet
+http://abcnew.site:8880/D12m2819/61296162/66820
+
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="PH017:TV5" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines | AN",TV5 HD
+http://abcnew.site:8880/D12m2819/61296162/66821
+
+#EXTINF:-1 tvg-id="PARAMOUNTNETWORK.ph" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/Paramount.png" group-title="Philippines | AN",Paramount
+http://abcnew.site:8880/D12m2819/61296162/66822
+
+#EXTINF:-1 tvg-id="PREMIER.SPORTS.ph" tvg-name="Premier Sports" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PremierSports.png" group-title="Philippines | AN",Premier Sports
+http://abcnew.site:8880/D12m2819/61296162/66823
+
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-name="One News" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | AN",One News
+http://abcnew.site:8880/D12m2819/61296162/66824
+
+#EXTINF:-1 tvg-id="TAP.MOVIES.ph" tvg-name="TAP Movies" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPMovies.png" group-title="Philippines | AN",TAP Movies
+http://abcnew.site:8880/D12m2819/61296162/66825
+
+#EXTINF:-1 tvg-id="TAP.TV.ph" tvg-name="TAP TV" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TAPTv.png" group-title="Philippines | AN",TAP TV
+http://abcnew.site:8880/D12m2819/61296162/66826
+
+#EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-name="One Sports Plus" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/OneSportsPlus.png" group-title="Philippines | AN",One Sports Plus
+http://abcnew.site:8880/D12m2819/61296162/66827
+
+#EXTINF:-1 tvg-id="ASIAN.FOOD.NETWORK.ph" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/AsianFoodNetwork.png" group-title="Philippines | AN",Asian Food Network
+http://abcnew.site:8880/D12m2819/61296162/66828
+
+
+
+
 
 #EXTINF:-1 tvg-id="Cable.News.Network.HDTV.(CNNHD).us" tvg-name="28" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="International" , CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Philippines" , CINEMO!
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMA.ONE.ph" tvg-name="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="Philippines" , Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:-1 channel-id="MYX.ph" tvg-name="23" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="Philippines" , MYX
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/800px-INCTV_Logo_With_Shadow.webp.png" group-title="Philippines" , INCTV
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-
-#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC.ph" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png" group-title="Philippines" , ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="International" , Travel Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
-
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-name="246" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="International" , HGTV
-https://dplus.gammacdn.workers.dev/videos/111.m3u8
-
-#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-name="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="International" , Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
-
-#EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png" group-title="Kids" , Cartoonito HD
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-
-#EXTINF:-1 tvg-id="ARIRANG.ph" tvg-name="Arirang.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="Philippines" , Arirang
-https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-name="178" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png" group-title="Kids" , Cartoon Network
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-
-#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="International" , ALJAZEERA
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="75" tvg-name="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="International" , KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
-#EXTINF:-1 tvg-id="Tv5.Monde.ph" tvg-name="Tv5.Monde.ph" tvg-logo="https://i.postimg.cc/8c0DNwg2/tv5monde.png" group-title="Unstable" , TV5 MONDE Asie
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Ls57t52j/TV5-Monde-Style-2023.png" group-title="Unstable" , TV5 MONDE Style
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-
-#EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.ph" tvg-name="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="International" , NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="BLOOMBERG.ph" tvg-name="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="International" , Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -155,56 +155,29 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="Bbcworld.News.ph" tvg-name="Bbcworld.News.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="International" , BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="49" tvg-name="49" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="International (U)" , AXN
-http://170.254.18.106/AXN/index.m3u8
-
-#EXTINF:-1 tvg-id="198" tvg-name="198" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="International (U)" , CINEMAX
-http://170.254.18.106/CINEMAX/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="International" , Asian Crush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" group-title="International" , AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-
-#EXTINF:-1 tvg-id="102" tvg-name="102" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="International (U)" , HBO Family
-http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="185" tvg-name="185" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="International (U)" , HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="International (U)" , HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
-
-#EXTINF:-1 tvg-id="54" tvg-name="54" tvg-logo="https://i.postimg.cc/XvW8ZCZs/Daco-4997049.png" group-title="International (U)" , HBO HD
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="International (U)" , HBO 2
-http://170.254.18.106/HBO2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="International (U)" , HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="International (U)" , HBO Hits
-https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-
-#EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="International" , CGTN News
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="International" , CGTN Documentaries
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="i24.News.us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/i24.png" group-title="International",i24NEWS
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8#checkedby:alliptvlinks.com
 
 #EXTINF:-1 tvg-id="France24.ph" tvg-name="France24.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="International" , France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-name="Lotusmacau.Prd.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="International" , Lotus Macau
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="International" , ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="International" , Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="International" , Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="International (U)" , Paramount Network
-http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-name="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="International" , Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title="International" , BBC Food
+https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" group-title="International" , AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="International" , AMC Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-name="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="International" , Discovery HD
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
@@ -227,47 +200,123 @@ https://dplus.gammacdn.workers.dev/videos/101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dmax_tv-channel.png" group-title="International" , DMAX
 https://dplus.gammacdn.workers.dev/videos/109.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" group-title="International (U)" , Baywatch
-https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="International" , Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="International" , Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-name="246" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="International" , HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="International" , Wild Planet
-https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="International" , Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="International" , AMC Thrillers
-https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.ph" tvg-name="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="International" , NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title="International" , BBC Food
-https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ARIRANG.ph" tvg-name="Arirang.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="International" , Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="International" , America's Got Talent
+#EXTINF:-1 tvg-id="75" tvg-name="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="International" , KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-name="Lotusmacau.Prd.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="International" , Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png" group-title="International" , SONY Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="International" , CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="International" , CGTN Documentaries
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="102" tvg-name="102" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="International (U)" , HBO Family
+http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="185" tvg-name="185" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="International (U)" , HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="International (U)" , HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="International (U)" , HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="International (U)" , HBO Xtreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="49" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="International (U)" , AXN
+http://170.254.18.106/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="198" tvg-name="198" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="International (U)" , CINEMAX
+http://170.254.18.106/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="International (U)" , Paramount Network
+http://170.254.18.106/PARAMOUNT/index.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="54" tvg-logo="https://i.postimg.cc/XvW8ZCZs/Daco-4997049.png" group-title="International (U)" , HBO HD
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="International (U)" , HBO Hits
+https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="24/7 Shows" , America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="International" , American Idol
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="24/7 Shows" , American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="International" , AFV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" group-title="24/7 Shows" , Baywatch
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png" group-title="Kids" , Cartoonito HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-name="178" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png" group-title="Kids" , Cartoon Network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="Free TV" , AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="International" , Redbox Spotlight
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="Free TV" , Redbox Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="International" , Redbox Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="Free TV" , Redbox Comedy
 https://comedy-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/72720827-544c-4599-bf8e-ade66d6bc9be-top-movies-rakutentv-1621956630.png" group-title="Rakuten TV" , Rakuten TV (Top Free)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/72720827-544c-4599-bf8e-ade66d6bc9be-top-movies-rakutentv-1621956630.png" group-title="Free TV" , Rakuten TV (Top Free)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/32045cf9-3031-4b1e-bb31-dc1447274b2e.png" group-title="Rakuten TV" , Rakuten TV (Family)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/32045cf9-3031-4b1e-bb31-dc1447274b2e.png" group-title="Free TV" , Rakuten TV (Family)
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="Rakuten TV" , Rakuten TV (Action Movies)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="Free TV" , Rakuten TV (Action Movies)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="Free TV" , MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png" group-title="International" , SONY Movies
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="Free TV" , Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Free TV" , Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="Free TV" , Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
