@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-id="TV5.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
+#EXTINF:0 tvg-id="GTV.ph" tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="Philippines",GTV
+https://ssh101-fl.bozztv.com/ssh101/phcxigncodetv/index.m3u8
+
 #EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC.ph" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png" group-title="Philippines" , ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
@@ -249,22 +252,28 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="International (U)" , NBA TV
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="International (U)" , NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="International (U)" , ESPN
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="International (U)" , ESPN
 https://fl2.moveonjoy.com/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="International (U)" , HBO HD
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png" group-title="International (U)" , Sky Sports F1
+http://cord-cutter.net:8080/k4Svp2/645504/53704
+
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/XvW8ZCZs/Daco-4997049.png" group-title="International (U)" , HBO HD
 http://212.102.60.231/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="102" tvg-name="102" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="International (U)" , HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="International (U)" , HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="International (U)" , Lifetime
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/640px-Cinemax.svg.png" group-title="International (U)" , Cinemax (East)
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="International (U)" , Lifetime
 http://212.102.60.231/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="International (U)" , MSNBC
+#EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/512px-MSNBC_2015-2021_logo.svg.png" group-title="International (U)" , MSNBC
 http://212.102.60.231/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="102" tvg-name="102" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="International (U)" , HBO Family [?]
@@ -297,13 +306,13 @@ https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="International (U)" , HBO Hits [?]
 https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" , Nickelodeon
 https://fl2.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , Disney
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="" tvg-logo="https://logonoid.com/images/disney-logo.png" , Disney
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , Disney XD
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" , Disney XD
 http://212.102.60.231/DISNEY_XD/index.m3u8
 
 
@@ -331,22 +340,22 @@ https://spotlight-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="Free TV" , Redbox Comedy
 https://comedy-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/72720827-544c-4599-bf8e-ade66d6bc9be-top-movies-rakutentv-1621956630.png" group-title="Free TV" , Rakuten TV (Top Free)
+#EXTINF:-1 tvg-id="UK:.Top.Movies.-.Rakuten.TV.en" tvg-name="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/72720827-544c-4599-bf8e-ade66d6bc9be-top-movies-rakutentv-1621956630.png" group-title="Free TV" , Rakuten TV (Top Free)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/32045cf9-3031-4b1e-bb31-dc1447274b2e.png" group-title="Free TV" , Rakuten TV (Family)
+#EXTINF:-1 tvg-id="UK:.Family.-.Rakuten.TV.en" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/32045cf9-3031-4b1e-bb31-dc1447274b2e.png" group-title="Free TV" , Rakuten TV (Family)
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="Free TV" , Rakuten TV (Action Movies)
+#EXTINF:-1 tvg-id="UK:.Action.Movies.-.Rakuten.TV.en" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="Free TV" , Rakuten TV (Action Movies)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="Free TV" , MovieSphere
+#EXTINF:-1 tvg-id="MovieSphere.by.Lionsgate.us" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="Free TV" , MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="Free TV" , Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Free TV" , Fashion TV
+#EXTINF:-1 tvg-id="UK:.Fashion.TV.en" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Free TV" , Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="Free TV" , Asian Crush
