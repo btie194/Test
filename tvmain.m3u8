@@ -2,9 +2,6 @@
 #EXTINF:0 tvg-id="TV5.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/TV5HD.png" group-title="Philippines",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
-#EXTINF:0 tvg-id="GTV.ph" tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="Philippines",GTV
-https://ssh101-fl.bozztv.com/ssh101/phcxigncodetv/index.m3u8
-
 #EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC.ph" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png" group-title="Philippines" , ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
@@ -20,6 +17,49 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="Philippines" , One Sports+
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , GMA
+http://45.89.149.2/stream/kapamilya/gma/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , GTV
+http://45.89.149.2/stream/kapamilya/gtv/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , Kapamilya Channel
+http://45.89.149.2/stream/kapamilya/kapamilyachannel/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , NBA Philippines
+http://45.89.149.2/stream/kapamilya/nbaphilippines/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , PBO
+http://45.89.149.2/stream/kapamilya/pbo/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , A2Z
+http://45.89.149.2/stream/kapamilya/a2z/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , Sari-Sari
+http://45.89.149.2/stream/kapamilya/sarisari/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , UAAP
+http://45.89.149.2/stream/kapamilya/uaap/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , Viva Cinema
+http://45.89.149.2/stream/kapamilya/vivacinema/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , TVN Premium
+http://45.89.149.2/stream/kapamilya/tvnpremium/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , TVN Movies
+http://45.89.149.2/stream/kapamilya/tvnmoviespinoy/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , PBA Rush
+http://45.89.149.2/stream/kapamilya/pbarush/master.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines" , TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
@@ -28,46 +68,6 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="Philippines" , CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC
-http://cord-cutter.net:8080/X5xRz0/944877/101823#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC 2
-http://cord-cutter.net:8080/k4Svp2/645504/101823#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="English.-.TFC.hk" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/tfc.png" group-title="Philippines | CC",TFC 3
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101823#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV
-http://cord-cutter.net:8080/X5xRz0/944877/101825#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV 2
-http://cord-cutter.net:8080/k4Svp2/645504/101825#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="GMA.Life.TV.(GMAL).us" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/GMA_Life_TV.png" group-title="Philippines | CC",GMA Life TV 3
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101825#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV
-http://cord-cutter.net:8080/X5xRz0/944877/101826#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV 2
-http://cord-cutter.net:8080/k4Svp2/645504/101826#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.(East).(GMA).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Gmapinoytv.png" group-title="Philippines | CC",GMA Pinoy TV 3
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101826#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD
-http://cord-cutter.net:8080/X5xRz0/944877/101774#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD 2
-http://cord-cutter.net:8080/k4Svp2/645504/101774#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/ONENews.png" group-title="Philippines | CC",One News HD 3
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101774#checkedby:alliptvlinks.com
 
 
 
