@@ -60,6 +60,16 @@ http://45.89.149.2/stream/kapamilya/pbarush/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , Animax JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Philippines" , Cartoon Network Asia
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines" , TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
@@ -248,6 +258,12 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="International" , CGTN Documentaries
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="International" , NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="International" , NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
 
 
 
@@ -314,6 +330,7 @@ http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" , Disney XD
 http://212.102.60.231/DISNEY_XD/index.m3u8
+
 
 
 
