@@ -6,10 +6,10 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="CINEMA.ONE.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/C1.png" group-title="Philippines",Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:0 tvg-id="MYX.ph" tvg-country="PH" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/myx.png" group-title="Philippines",MYX Philippines
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.com
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Philippines" , CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
@@ -78,6 +78,427 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="Philippines" , CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", HITS Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"krAofHBC8nGyZswRq3VB8Q", "kid":"FEOaG3r8RSe7DrxRzxHLwQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/XvW8ZCZs/Daco-4997049.png" group-title="Philippines - Cignal", HBO HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VMITsrX4hfHgKQ7kEx1CWw", "kid":"1H66v3ohQwuDqMS4LZ72sQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="Philippines - Cignal", HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"95/YlbecWQcIz16LXGJjvg", "kid":"hykQyEMpQxmADYX5oJQGBw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/640px-Cinemax.svg.png" group-title="Philippines - Cignal", Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/nGuo0bbCPjG+/BZIgn5VQ", "kid":"sgfEQzKERSOjo7BGnlZS1w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="Philippines - Cignal", HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VZ2htj7sd7WpQgGPFNP1bw", "kid":"oGymwnV0QVGJV2LgNGOA9Q" } ], "type":"temporary" }
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Philippines - Cignal", HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qHlfO9uKR3i36IjuSEzHoQ", "kid":"sEroAXtbRgGloMkGD21bfQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", DreamWorks - Tagalog
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"060n1/4fFPsaLNVohUn7qw", "kid":"Vks7HHgQQ8GSQsZuNIaZxQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", A2Z
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wi8hYuF27uYnOl0LaNGVMA", "kid":"9wPkyOyQQe61Aoq0JI+glA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", DreamWorks HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jLIJ8YKEMc6bULWT0fRAeQ", "kid":"SrlkWioKR+29ZehHnCuWaQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", TAP Edge
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r4rRxePy4bdRpPZGCPJCdQ", "kid":"D4VANEErEe24eAJCrBIAAg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", TAP Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dn41oH4sEoIjFsDcSHOQPw", "kid":"6r0tlcieQvKwsLQM5BeeoA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/OneSportsPlus.png" group-title="Philippines - Cignal", ONE Sports Plus HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Hj4Moy1CH7/shv7O0O/v2g", "kid":"Mi0G6TJvR1On7AkIAwwT2A" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/PBARush.png" group-title="Philippines - Cignal", PBA Rush HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lbLy/9ThQHNiBQYhO2Ksgg", "kid":"dtwp3YeiRK6rnot8XaHl8w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Kapamilya 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ps8wXVSncpKZuTo9acAupQ", "kid":"vRevtdyWSKOb557jY03UuA" } ], "type":"temporary" }
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", ONE News HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z5cGaIDTREIqvT9e2kH0Xw", "kid":"056yAa5JSguYWD300RDo3Q" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="Philippines - Cignal", lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZKgeMPblt1R+NRa7+MZH0A", "kid":"z4YdJueDQWaAfDJNV99RGQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/btie194/Test/main/logo/UAAPVarsity.png" group-title="Philippines - Cignal", UAAP Varsity
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bg9QoS82WZpVBzho+BToHg", "kid":"lViDOO43Qj6ZNYptQxMkuQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Hits HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"l14n/8G3lJch7jzLS3/T5Q", "kid":"2sYFvBl+RCyT9PCFlalRAA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", ONE PH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pxCNmmz8wbeTnrER2vCasw", "kid":"koNKtKfhSZuQiGxdSSIORg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Food Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uK52ec8Y5yYTAzE7GLp6FA", "kid":"tymeoK+JRUec0vKH7n1TDg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", History HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b5fj4usrreYm4CgewB02dQ", "kid":"p3JLfKJgTDO7LpY6AxmWig" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", FashionTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RyqmMbHmcQcKS/GY9D2gxw", "kid":"lx674tiHR2OY6Xw34MXFkQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", WarnerTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r8nI9if7P7JV3ujjsP4dcQ", "kid":"RQPPhryjSUq5WnftkTYZoA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A/i2Xir3hbENZjRzXb5sEQ", "kid":"kgMrDkGlQ/uYMHUSc7jevQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OqoAHdwUL+27nVVXvkN5Lw", "kid":"/V2Sj12XTKSYP26Sld/kEA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Moonbug Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DxSISHy+BeK63D21OuDynw", "kid":"C/AJIb7JSmWhJPuh71KxzQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O4VZTH+IYErfAE5FwDURwA", "kid":"OJSX+fhYSleyNOJ+Qw4Etw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Buko
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTI1TDqE9/wbgO+mvOoGFQ", "kid":"0nPAhfKrSiSOe/w3UikAfQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Knowledge Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eDN0Jz75etO8mSwdY+CR5w", "kid":"D4VvoEErEe24eAJCrBIAAg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Billiard TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DWcSvyqE7cyT0AGpYT9v7A", "kid":"z7XitzvvTzyHjyWrhqdFHw" } ], "type":"temporary" }
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-511/stream.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8Pu3WM3urd+j6uU4hWtNcg", "kid":"nOWPN1drQWOBtlFKgJv9iw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Sari Sari
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"shZUYhIwriFxSlyrUtrrnQ", "kid":"CnqzYS9DQzWqbolQFtjNLQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Tagalog Movie Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yikxIRwaJh8IKjosT9n5Gw", "kid":"lnAdKX0SQeSS1Bw5djHYVw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Cartoon Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zdSPqITcDDo/ha7ryhPURA", "kid":"otH1Uv+VQVWLMpa1qTITaw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xj1bDX5SM1thrrpPZTfVTQ", "kid":"Q2tp+YeST8u8BtQKacJ5mg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", SPOTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nA5BkSA/zLD9407imZkSng", "kid":"7H7ifYN2TkuEXEjMoxyO7w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Premier Sports HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6mgxEqltSubDLU6hOSPoxw", "kid":"/BnJjLlQSg+3iyL+oKS4FA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", BBC Earth HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DiohF9cFYTVCYY9Yvyb8jg", "kid":"NM6VtgxCThaWGYFsUYGt7Q" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Discovery
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tuZ8NyOZAZgMbjfgYHzu5g", "kid":"2axI9RMWQaeJMoJX53itOg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", KIX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8kjClSXtTEDMObru6WNHNQ", "kid":"qNVxKWfNSVyoD9xCW8Ydaw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", TRVL Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vb04dI9R/CaTLpbJogIIOQ", "kid":"8wR/wT1FTay220IH7nnT0w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Premier Tennis HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YRANC4xN0T5OuLSFG6GSzA", "kid":"WUVK21MLTgeE6uYnNfnYUA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", PBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MedStEG9KXLyuYpLG8HHoQ", "kid":"3L2qpmYtQYi9+X+fDKXoMA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", VIVA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O9Zoi4tE6WIB51MiSt/I+w", "kid":"B6qBO/LBR3SARu3ZMPdzbg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WSHkf7KQriYykbhRwLS25A", "kid":"FhnbMLntQgGau3YKCjtefw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CsZ5qtO51hmsOa1jTsdryA", "kid":"urXBEXi2RnSfuuh5Yr9REw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", TAP Movies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w/KqQguJCKuHYVccAYmUYA", "kid":"ccvfArWVRou3c5giLhreCQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", TAP TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VcPAFPK9Eta9YjSWWPJFZg", "kid":"9oBCUekLSWaIm335T9xiHg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", TAP Action Flix HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9bcr87ibmEjeVhbzfeBAtw", "kid":"vuEGYWDAQkaW2b+ZygZF4w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Thrill
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qC7cNAvHNEe6wWzf7QpMYg", "kid":"koEU/7I5TRS1WFJY9w7Rgw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Crime Investigation
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"22u2OMzfwa0aPpjXKEhoAQ", "kid":"IeKEO1YcQki46kh5hqFtMw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Philippines - Cignal", Tech Storm
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FAv7NlzxQ8NJ9oaZI4phDA", "kid":"VnXYXOZ1S6aqj2rMRmD3bw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
+
+
 
 
 
