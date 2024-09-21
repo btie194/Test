@@ -1,0 +1,1141 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", bilyonaryoch
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"stDc5cSGiRmXwckt2sos0g", "kid":"In/68JvsSoieDgmIcE1Sog" } ], "type":"temporary" }
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", rptv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oTQKJRpapjqbDqXZ1/Z1lQ", "kid":"GRf0yvI2Tm2bFQcyaoXq1g" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", truefmtv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QNi7Kkb/0DVA4MYhDs5Xzg", "kid":"BVnJVJbUT625QQW5F2w1eQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hitsnow
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"krAofHBC8nGyZswRq3VB8Q", "kid":"FEOaG3r8RSe7DrxRzxHLwQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbohd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VMITsrX4hfHgKQ7kEx1CWw", "kid":"1H66v3ohQwuDqMS4LZ72sQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbofam
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"95/YlbecWQcIz16LXGJjvg", "kid":"hykQyEMpQxmADYX5oJQGBw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/nGuo0bbCPjG+/BZIgn5VQ", "kid":"sgfEQzKERSOjo7BGnlZS1w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbosign
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VZ2htj7sd7WpQgGPFNP1bw", "kid":"oGymwnV0QVGJV2LgNGOA9Q" } ], "type":"temporary" }
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbohits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qHlfO9uKR3i36IjuSEzHoQ", "kid":"sEroAXtbRgGloMkGD21bfQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_tvnmovie
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NHGyRktcewM6A7uDB9n6NQ", "kid":"LlP42KXpS8qPmh4WzmffMw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_dreamworktag
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"060n1/4fFPsaLNVohUn7qw", "kid":"Vks7HHgQQ8GSQsZuNIaZxQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_tvnpre
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"txLE7DBzAAQzM6aJmkAsEA", "kid":"4b3lQ+ihQLONP4Ss50ZVPg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", dr_popupppvhd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t/rWdZnBzjwvvJ0CuQG+BQ", "kid":"KG4cLWIsTHO1w9cuSoSKvQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_mptv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E5qlpVreRx+q3azE9N6IBw", "kid":"aquPQFNvTqmOfJe486p9Tg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", WWF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iuYGMWcijjUN0TLUoVcxAg", "kid":"ACCMk/Q1ghO1IiCJi5YjhQ" } ], "type":"temporary" }
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", a2z
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wi8hYuF27uYnOl0LaNGVMA", "kid":"9wPkyOyQQe61Aoq0JI+glA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", dreamworks_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jLIJ8YKEMc6bULWT0fRAeQ", "kid":"SrlkWioKR+29ZehHnCuWaQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", PTV4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rR8AO08LMbdepFk4RENWAA", "kid":"caEwqFG5SEu0cUHIlm+0ow" } ], "type":"temporary" }
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tap_edge
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r4rRxePy4bdRpPZGCPJCdQ", "kid":"D4VANEErEe24eAJCrBIAAg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tap_sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dn41oH4sEoIjFsDcSHOQPw", "kid":"6r0tlcieQvKwsLQM5BeeoA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", onesportsplus_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Hj4Moy1CH7/shv7O0O/v2g", "kid":"Mi0G6TJvR1On7AkIAwwT2A" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", GMA 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+http://115.146.176.131:80/TimRizal/TimRizal/14
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", pbarush_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lbLy/9ThQHNiBQYhO2Ksgg", "kid":"dtwp3YeiRK6rnot8XaHl8w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", Kapamilya 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ps8wXVSncpKZuTo9acAupQ", "kid":"vRevtdyWSKOb557jY03UuA" } ], "type":"temporary" }
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", kbs_world
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xue6L0izo7gmnovDYOYEBA", "kid":"Iv8jRxB+SHGqQjvqnCvTYw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", onenews_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z5cGaIDTREIqvT9e2kH0Xw", "kid":"056yAa5JSguYWD300RDo3Q" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZKgeMPblt1R+NRa7+MZH0A", "kid":"z4YdJueDQWaAfDJNV99RGQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", hgtv_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E4AqebGcw0hdIlcWWn72Kg", "kid":"8OOrlDMYRxq8i0cCfzhPWg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", uaap_varsity
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bg9QoS82WZpVBzho+BToHg", "kid":"lViDOO43Qj6ZNYptQxMkuQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", hits_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"l14n/8G3lJch7jzLS3/T5Q", "kid":"2sYFvBl+RCyT9PCFlalRAA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", GTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+http://115.146.176.131:80/TimRizal/TimRizal/35
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", oneph
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pxCNmmz8wbeTnrER2vCasw", "kid":"koNKtKfhSZuQiGxdSSIORg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", foodnetwork_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uK52ec8Y5yYTAzE7GLp6FA", "kid":"tymeoK+JRUec0vKH7n1TDg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", depedchannel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IVfWUp2Ap2D2CotTUNvE3w", "kid":"D4U3BkErEe24eAJCrBIAAg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tv5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"B8f5lrFzTqKIZBpo4c/cTQ", "kid":"JhUSnvLIRqm71DpkHHMD7w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", history_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b5fj4usrreYm4CgewB02dQ", "kid":"p3JLfKJgTDO7LpY6AxmWig" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", fashiontv_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RyqmMbHmcQcKS/GY9D2gxw", "kid":"lx674tiHR2OY6Xw34MXFkQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", bloomberg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"skCU9soTavJWAORN9Zh69A", "kid":"732dz7mbQGy3n7n2dcukJg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", Teleradyo 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UFRzlARbPQR9x9kvV7X7Mw", "kid":"R8CT4Mn9T4CDmgM32j3Ydg" } ], "type":"temporary" }
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", onesports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PeKEEc8Ipk6pNblXj20O3Q", "kid":"U8O/LrpXT2Oaoh8tRAn/EQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", warnertv_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r8nI9if7P7JV3ujjsP4dcQ", "kid":"RQPPhryjSUq5WnftkTYZoA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A/i2Xir3hbENZjRzXb5sEQ", "kid":"kgMrDkGlQ/uYMHUSc7jevQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cgtn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nyyCp05yferb2jieGHmNVQ", "kid":"D4VO5EErEe24eAJCrBIAAg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", axn
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OqoAHdwUL+27nVVXvkN5Lw", "kid":"/V2Sj12XTKSYP26Sld/kEA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", moonbug_kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DxSISHy+BeK63D21OuDynw", "kid":"C/AJIb7JSmWhJPuh71KxzQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", france24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6A6tD0+dYDirNPMycTzqpQ", "kid":"JX+f3rOdQb2yJsKuH72utg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", abc_australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O4VZTH+IYErfAE5FwDURwA", "kid":"OJSX+fhYSleyNOJ+Qw4Etw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ANC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YDnsmyE6ypE4IWd6KL14rg", "kid":"S73HgCSlRmKFS0EtAfr6Fg" } ], "type":"temporary" }
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", buko
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTI1TDqE9/wbgO+mvOoGFQ", "kid":"0nPAhfKrSiSOe/w3UikAfQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", knowledge_channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eDN0Jz75etO8mSwdY+CR5w", "kid":"D4VvoEErEe24eAJCrBIAAg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", billiard_tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DWcSvyqE7cyT0AGpYT9v7A", "kid":"z7XitzvvTzyHjyWrhqdFHw" } ], "type":"temporary" }
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-511/stream.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8Pu3WM3urd+j6uU4hWtNcg", "kid":"nOWPN1drQWOBtlFKgJv9iw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", sari_sari
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"shZUYhIwriFxSlyrUtrrnQ", "kid":"CnqzYS9DQzWqbolQFtjNLQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ibc13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/wpivfiSDORT/mgDMLVjpQ", "kid":"BOKSvJm9TMuonneGUZFCVA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", channelnews_asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dT49uparRn5Ggmnn4z+4Ew", "kid":"slnfmYc2TdO3eKpdQsuazQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tvup_prd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qXxRXby13LxDK70J0Vr9QQ", "kid":"g+gTzNTKSDev1hEDevAvYw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tvmaria_prd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mY8SlLEiu/GpbB3cDLsinw", "kid":"+jmYuaTeQGWXJevFFRJQ1g" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", lotusmacau_prd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ab2+ItWbKkUEtTrcL2BswQ", "kid":"YNxpLmTqRDqPtawYbIZamw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_tagalogmovie
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yikxIRwaJh8IKjosT9n5Gw", "kid":"lnAdKX0SQeSS1Bw5djHYVw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cartoon_net_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zdSPqITcDDo/ha7ryhPURA", "kid":"otH1Uv+VQVWLMpa1qTITaw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", animal_planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xj1bDX5SM1thrrpPZTfVTQ", "kid":"Q2tp+YeST8u8BtQKacJ5mg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", SPOTV_HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nA5BkSA/zLD9407imZkSng", "kid":"7H7ifYN2TkuEXEjMoxyO7w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", premiersports_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6mgxEqltSubDLU6hOSPoxw", "kid":"/BnJjLlQSg+3iyL+oKS4FA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", blueant_extreme
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TLwATYxET5+ZbbQgWc6BeA", "kid":"D4UvuEErEe24eAJCrBIAAg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", bbcearth_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DiohF9cFYTVCYY9Yvyb8jg", "kid":"NM6VtgxCThaWGYFsUYGt7Q" } ], "type":"temporary" }
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", SPOTV_HD2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aEjvYFdVeb9NQV2xAyFT7Q", "kid":"fupy1gdSRame4yVWA9WIUw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", rock_entertainment
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vioJZAM0a8HQuw+BKCK7Yg", "kid":"5O4M+MqXRvma9ALKbu2Nxw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", discovery
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tuZ8NyOZAZgMbjfgYHzu5g", "kid":"2axI9RMWQaeJMoJX53itOg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", kix_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8kjClSXtTEDMObru6WNHNQ", "kid":"qNVxKWfNSVyoD9xCW8Ydaw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", bbcworld_news
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EZY56End7pbEzsLytrCbQA", "kid":"9ZZQvkdeTDSoRNTiBi9x8w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", travel_channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vb04dI9R/CaTLpbJogIIOQ", "kid":"8wR/wT1FTay220IH7nnT0w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", premier_tennishd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YRANC4xN0T5OuLSFG6GSzA", "kid":"WUVK21MLTgeE6uYnNfnYUA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", pbo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MedStEG9KXLyuYpLG8HHoQ", "kid":"3L2qpmYtQYi9+X+fDKXoMA" } ], "type":"temporary" }
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", viva
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O9Zoi4tE6WIB51MiSt/I+w", "kid":"B6qBO/LBR3SARu3ZMPdzbg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", asianfoodnetwork
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WSHkf7KQriYykbhRwLS25A", "kid":"FhnbMLntQgGau3YKCjtefw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", nickjr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CsZ5qtO51hmsOa1jTsdryA", "kid":"urXBEXi2RnSfuuh5Yr9REw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tapmovies_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w/KqQguJCKuHYVccAYmUYA", "kid":"ccvfArWVRou3c5giLhreCQ" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", taptv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VcPAFPK9Eta9YjSWWPJFZg", "kid":"9oBCUekLSWaIm335T9xiHg" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tapactionflix_hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9bcr87ibmEjeVhbzfeBAtw", "kid":"vuEGYWDAQkaW2b+ZygZF4w" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", thrill
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qC7cNAvHNEe6wWzf7QpMYg", "kid":"koEU/7I5TRS1WFJY9w7Rgw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", crime_investigation
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"22u2OMzfwa0aPpjXKEhoAQ", "kid":"IeKEO1YcQki46kh5hqFtMw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tech_storm
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FAv7NlzxQ8NJ9oaZI4phDA", "kid":"VnXYXOZ1S6aqj2rMRmD3bw" } ], "type":"temporary" }
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
